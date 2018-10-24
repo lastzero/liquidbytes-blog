@@ -1,0 +1,12 @@
+{{ $name := .name }}
+{{ $currentPage := . }}
+{{ with .menu }}
+<h5 class="white-text">{{ $name }}</h5>
+<ul>
+    {{ range . }}
+    <li>
+        <a class="white-text" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

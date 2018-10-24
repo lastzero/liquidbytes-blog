@@ -1,0 +1,84 @@
+url: "https://blog.liquidbytes.net"
+baseURL: "https://blog.liquidbytes.net"
+pygmentsuseclasses: true
+name: Liquid Bytes
+title: Liquid Bytes
+languageCode: "en-us"
+description: 'Software Engineering &amp; Management Blog'
+theme: liquidbytes
+copyright: "You are free to share if you link back to this blog"
+publishDir: "../lastzero.github.io"
+params:
+  footer_menus:
+    - name: "Links"
+      menu: "profiles"
+    - name: "Projects"
+      menu: "projects"
+  authorname: Nicholas Whittier
+  authorlink: http://imperialwicket.com
+  authortwitter: nw_iw
+  authorgithub: imperialwicket
+  authorbio: Some dude.
+  authorimage: faces.jpg
+  author:
+    name: "Michael Mayer"
+    link: "https://blog.liquidbytes.net"
+  inc:
+    # Blog Information
+    title:        "Hugo Incorporated"
+    subtitle:     "Modern Hugo based blog for companies"
+    cover_image:  blog-cover.jpg
+    logo:         logo.png
+
+    # Company information
+    company:      Liquid Bytes
+    url:          "https://blog.liquidbytes.net"
+    #    facebook:
+    github:       lastzero
+    twitter:      lastzero
+    #    gplus:        ''
+    about_link:   "https://blog.liquidbytes.net"
+
+    # Sharing settings
+    sharing:
+      twitter:    https://twitter.com/lastzero
+      facebook:   false
+      gplus:      false
+      hn:         false
+    google_font: 'Droid+Sans:400,700'
+
+menu:
+  main:
+    - Name: "Blog"
+      URL: "/"
+      Weight: 10
+    - Name: "About"
+      URL: "/about"
+      Weight: 20
+    - Name: "Open-Source"
+      URL: "/opensource"
+      Weight: 30
+    - Name: "Contact"
+      URL: "/contact"
+      Weight: 40
+  profiles:
+    - Name: "GitHub"
+      URL: "https://github.com/lastzero"
+      Weight: 10
+    - Name: "Twitter"
+      Icon: "fab fa-twitter"
+      URL: "https://twitter.com/lastzero"
+      Weight: 20
+    - Name: "LinkedIn"
+      URL: "https://www.linkedin.com/in/lastzero/"
+      Weight: 30
+  projects:
+    - Name: "PhotoPrism"
+      URL: "https://photoprism.org/"
+      Weight: 10
+    - Name: "Symlex"
+      URL: "https://github.com/symlex"
+      Weight: 20
+    - Name: "TweetHog"
+      URL: "https://github.com/lastzero/tweethog"
+      Weight: 30

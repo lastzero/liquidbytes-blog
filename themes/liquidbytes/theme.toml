@@ -1,0 +1,17 @@
+name = "Liquid Bytes Blog"
+license = "MIT"
+licenselink = ""
+description = ""
+homepage = ""
+tags = ["blog", "material design", "multilingual", "clean", "google analytics", "responsive"]
+features = ["blog"]
+min_version = "0.38.1"
+
+[author]
+  name = "Michael Mayer"
+  homepage = "https://github.com/lastzero"
+
+[original]
+  author =  ""
+  homepage = ""
+  repo = ""

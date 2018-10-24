@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {{ partial "head-meta" . }}
+
+    <meta name="description" content="{{ .Description }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{ $title := delimit (slice .Title "&middot;" .Site.Title) " " }}
+    <title>{{ $title }}</title>
+
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    <!-- Page styles -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="/css/materialize.min.css" type="text/css" media="screen,projection"/>
+    <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen,projection"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/brands.css" integrity="sha384-Px1uYmw7+bCkOsNAiAV5nxGKJ0Ixn5nChyW8lCK1Li1ic9nbO5pC/iXaq27X5ENt" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/fontawesome.css" integrity="sha384-BzCy2fixOYd0HObpx3GMefNqdbA7Qjcc91RgYeDjrHTIEXqiF00jKvgQG0+zY/7I" crossorigin="anonymous">
+
+    {{ if .RSSLink }}
+      <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ $title }}" />
+      <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ $title }}" />
+    {{ end }}
+
+    {{ partial "head-custom.html" . }}
+  </head>
+  <body class="">
+    {{ block "header" . }}
+      {{ partial "header" . }}
+    {{ end }}
+
+    <main>
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+    </main>
+
+    {{ block "footer" . }}
+      {{ partial "footer" . }}
+    {{ end }}
+
+    <!--  Scripts-->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="{{ .Site.BaseURL }}js/materialize.js"></script>
+    <script src="{{ .Site.BaseURL }}js/init.js"></script>
+  </body>
+</html>
