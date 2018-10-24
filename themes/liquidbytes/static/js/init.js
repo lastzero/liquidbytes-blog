@@ -2,6 +2,6 @@
   $(function(){
     $('.sidenav').sidenav();
     $('.parallax').parallax();
-    //$('.button-collapse').sidenav();
+    $('a[href="' + window.location.pathname + '"]').parents().addClass('active');
   }); // end of document ready
 })(jQuery); // end of jQuery name space

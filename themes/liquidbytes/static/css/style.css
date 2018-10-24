@@ -1,75 +1,75 @@
 /* General */
 
 body {
-  font-weight: 300;
-  background-color: #ffffff;
-  font-size: 15px;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+    font-weight: 300;
+    background-color: #ffffff;
+    font-size: 15px;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 .max-width {
-  max-width: 1280px;
-  margin: 0 auto;
+    max-width: 1280px;
+    margin: 0 auto;
 }
 
 .clear-padding {
-  padding: 0 !important;
+    padding: 0 !important;
 }
 
 /* Header */
 
 .brand-logo {
-  margin-right: 6px;
+    margin-right: 6px;
 }
 
 /* Article */
 
 .article-image {
-  width: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 50%;
-  padding-top: 42%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    padding-top: 42%;
 }
 
 .article-meta-author-name {
-  font-weight: 500;
+    font-weight: 500;
 }
 
 .article-meta-container {
-  margin-bottom: 16px;
+    margin-bottom: 16px;
 }
 
 article ul li, footer ul li {
-  line-height: 2;
+    line-height: 2;
 }
 
 h1 {
-  font-size: 30px !important;
+    font-size: 30px !important;
 }
 
 h2 {
-  font-size: 26px !important;
+    font-size: 26px !important;
 }
 
 h3 {
-  font-size: 22px !important;
+    font-size: 22px !important;
 }
 
 h4 {
-  font-size: 20px !important;
+    font-size: 20px !important;
 }
 
 h5 {
-  font-size: 18px !important;
+    font-size: 18px !important;
 }
 
 /* Figure */
 
-figure>img {
-  width: 100%;
+figure > img {
+    width: 100%;
 }
 
 /* Custom Stylesheet */
@@ -82,127 +82,127 @@ figure>img {
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
-  font-size: 16px;
+    color: #444;
+    font-size: 16px;
 }
 
 p {
-  line-height: 1.5;
+    line-height: 1.5;
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+    color: #26a69a;
 }
 
 .parallax-container {
-  min-height: 300px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
+    min-height: 300px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255, 255, 255, .9);
 }
-  .parallax-container .section {
+
+.parallax-container .section {
     width: 100%;
-  }
-
-@media only screen and (max-width : 992px) {
-  .parallax-container .section {
-    position: absolute;
-    top: 40%;
-  }
-  #index-banner .section {
-    top: 10%;
-  }
 }
 
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
-  }
+@media only screen and (max-width: 992px) {
+    .parallax-container .section {
+        position: absolute;
+        top: 40%;
+    }
+
+    #index-banner .section {
+        top: 10%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #index-banner .section {
+        top: 0;
+    }
 }
 
 .icon-block {
-  padding: 0 15px;
+    padding: 0 15px;
 }
+
 .icon-block .material-icons {
-  font-size: inherit;
+    font-size: inherit;
 }
 
 footer.page-footer {
-  margin: 0;
+    margin: 0;
 }
 
 .dark-shadow {
-  /* background-color: rgba(0, 0, 0, 0.7);
-  margin: 5px;
-  padding: 0;
-  line-height: 40px; */
-  text-shadow:
-          -2px 0px 2px rgba(0, 0, 0, 0.5),
-          2px 0px 2px rgba(0, 0, 0, 0.5);
+    /* background-color: rgba(0, 0, 0, 0.7);
+    margin: 5px;
+    padding: 0;
+    line-height: 40px; */
+    text-shadow: -2px 0px 2px rgba(0, 0, 0, 0.5),
+    2px 0px 2px rgba(0, 0, 0, 0.5);
 }
 
 a {
-  color: #3949ab;
+    color: #3949ab;
 }
 
 main {
-  flex: 1 0 auto;
+    flex: 1 0 auto;
 }
 
-
 .sidenav .info-view {
-  position: relative;
-  padding: 32px 8px 32px 8px;
-  margin-bottom: 8px;
-  text-align: center;
+    position: relative;
+    padding: 32px 8px 32px 8px;
+    margin-bottom: 8px;
+    text-align: center;
 }
 
 .sidenav .info-view > a {
-  height: auto;
-  padding: 0;
+    height: auto;
+    padding: 0;
 }
 
 .sidenav .info-view > a:hover {
-  background-color: transparent;
+    background-color: transparent;
 }
 
 .sidenav .info-view .background {
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
 }
 
 .sidenav .info-view h3 {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .container {
-  width: auto;
-  max-width: 1044px;
+    width: auto;
+    max-width: 1044px;
 }
 
 blockquote {
-  margin: 20px 0;
-  padding-left: 1.5rem;
-  border-left: 5px solid #0074c5;
-  background-color: #fafafa;
-  border-radius: 3px;
+    margin: 20px 0;
+    padding-left: 1.5rem;
+    border-left: 5px solid #0074c5;
+    background-color: #fafafa;
+    border-radius: 3px;
 }
 
 article img {
-  max-width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 article a:hover {
-  text-shadow:
-          -3px 0px 3px rgba(255, 255, 0, 0.5),
-          3px 0px 3px rgba(255, 255, 0, 0.5),
-          6px 0px 6px rgba(255, 255, 0, 0.5),
-          -6px 0px 6px rgba(255, 255, 0, 0.5);
+    text-shadow: -3px 0px 3px rgba(255, 255, 0, 0.5),
+    3px 0px 3px rgba(255, 255, 0, 0.5),
+    6px 0px 6px rgba(255, 255, 0, 0.5),
+    -6px 0px 6px rgba(255, 255, 0, 0.5);
 }

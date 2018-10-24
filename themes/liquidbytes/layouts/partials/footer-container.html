@@ -13,7 +13,7 @@
 
     {{ if .Site.Params.footer_menus }}
         <div class="col s12 l{{ sub $linksCols 2 }} offset-l2">
-            <div class="row">
+            <div class="">
                 {{ $menus := .Site.Menus }}
                 {{ $colWidth := math.Floor (div 12 (len .Site.Params.footer_menus)) }}
                 {{ range $index, $menu := .Site.Params.footer_menus }}

@@ -59,13 +59,13 @@ menu:
       URL: "/"
       Weight: 10
     - Name: "About"
-      URL: "/about"
+      URL: "/about/"
       Weight: 20
     - Name: "Open Source"
-      URL: "/opensource"
+      URL: "/opensource/"
       Weight: 30
     - Name: "Contact"
-      URL: "/contact"
+      URL: "/contact/"
       Weight: 40
   profiles:
     - Name: "GitHub"
