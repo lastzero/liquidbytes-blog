@@ -7,7 +7,15 @@ languageCode: "en-us"
 theme: liquidbytes
 copyright: "You are free to share"
 publishDir: "../lastzero.github.io"
+
+
 params:
+  twitter:
+    - card: "summary_large_image"
+    - creator: "@lastzero"
+    - image: "https://blog.liquidbytes.net/img/thumbnail.jpg"
+  image: "https://blog.liquidbytes.net/img/thumbnail.jpg"
+  thumbnail: "https://blog.liquidbytes.net/img/thumbnail.jpg"
   author: Michael Mayer
   description: "Michael learned coding on an Atari 1040 ST and started his first open-source projects in the 90s. He has more than 20 years of experience in leading teams and building Web applications."
   footer_menus:
@@ -23,10 +31,10 @@ params:
   authorimage: faces.jpg
   inc:
     # Blog Information
-    title:        "Hugo Incorporated"
-    subtitle:     "Modern Hugo based blog for companies"
-    cover_image:  blog-cover.jpg
-    logo:         logo.png
+    title:        "Liquid Bytes"
+    subtitle:     "Software Engineering & Management Blog"
+    cover_image:  "https://blog.liquidbytes.net/img/thumbnail.jpg"
+    logo:         "https://blog.liquidbytes.net/img/logo.png"
 
     # Company information
     company:      Liquid Bytes
