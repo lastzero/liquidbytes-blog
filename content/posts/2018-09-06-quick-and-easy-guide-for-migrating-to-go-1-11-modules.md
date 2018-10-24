@@ -15,49 +15,60 @@ Dependency management traditionally has been one of the weak spots of Go. Knowin
 
 **Step 1:** First of all, make sure you got [Go 1.11][4] (or later) installed:
 
-<pre># go version
-go version go1.11 darwin/amd64</pre>
+{{< highlight sh >}}
+go version
+go version go1.11 darwin/amd64
+{{< / highlight >}}
 
 Module support is disabled by default for all code inside $GOPATH so that 1.11 behaves like 1.10 did. To enable it, you have to set GO111MODULE=on in your environment
 
-<pre class="p1"><span class="s1"># export GO111MODULE=on</span></pre>
+{{< highlight sh >}}
+export GO111MODULE=on
+{{< / highlight >}}
 
 or prepend all commands with &#8220;env GO111MODULE=on&#8221; as shown in the next step.
 
 **Step 2:** Switch to the project&#8217;s root directory and type:
 
-<pre># env GO111MODULE=on go mod init
-</pre>
+{{< highlight sh >}}
+env GO111MODULE=on go mod init
+{{< / highlight >}}
 
 If you don&#8217;t see an error, everything is ok.
 
 **Step 3:** Run go build to add dependencies to the newly created go.mod file (it will copy version requirements from an existing Gopkg.lock file):
 
-<pre># go build ./...
+{{< highlight sh >}}
+go build ./...
 go: creating new go.mod: module github.com/your/project
 go: copying requirements from Gopkg.lock
 go: finding github.com/dghubble/oauth1 v0.0.0-20180522044949-c0a405baf29f
 go: downloading github.com/dghubble/oauth1 v0.0.0-20180522044949-c0a405baf29f
-</pre>
+{{< / highlight >}}
 
 You can now enable Go Modules (vgo) integration, if you&#8217;re using an IDE like GoLand.
 
 **Step 4:** Remove the vendor directory, Gopkg.lock and Gopkg.toml (if exists) and run tests to verify the changes didn&#8217;t break anything:
 
-<pre># git rm -rf Gopkg.* vendor
-# go test ./...
+{{< highlight sh >}}
+git rm -rf Gopkg.* vendor
+go test ./...
 ok      github.com/your/project 0.039s</pre>
+{{< / highlight >}}
 
 **Step 5:** Finally add the module config, don&#8217;t forget to update the documentation and commit your changes:
 
-<pre># git add go.mod go.sum
-# git commit -m "Migrate to go modules"</pre>
+{{< highlight sh >}}
+git add go.mod go.sum
+git commit -m "Migrate to go modules"
+{{< / highlight >}}
 
 You&#8217;re welcome to have a look at my existing Go projects for further inspiration: [TweetHog][5] and [PhotoPrism][6]. They use Travis CI for automated testing, one [directly][7] and the other via [Docker][8].
 
 **Bonus:** Put a [Makefile][9] in your project root to simplify building your application. It might look something like that (make sure to use tabs, not spaces):
 
-<pre>export GO111MODULE=on
+{{< highlight make >}}
+export GO111MODULE=on
 BINARY_NAME=yourapp
 
 all: deps build
@@ -74,11 +85,13 @@ deps:
     go build -v ./...
 upgrade:
     go get -u
-</pre>
+{{< / highlight >}}
 
 You can now automate building and easily run tasks without remembering individual commands:
 
-<pre class="p1"><span class="s1"># make deps upgrade build</span></pre>
+{{< highlight sh >}}
+make deps upgrade build
+{{< / highlight >}}
 
 See also [Using a Makefile with Golang][10] and [Don’t be afraid of makefiles][11].
 

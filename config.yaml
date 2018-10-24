@@ -1,13 +1,23 @@
 url: "https://blog.liquidbytes.net"
 baseURL: "https://blog.liquidbytes.net"
-pygmentsuseclasses: true
+pygmentsCodeFencesGuessSyntax: true
+pygmentsStyle: friendly
+pygmentsUseClasses: true
 name: "Liquid Bytes"
 title: "Liquid Bytes - Software Engineering & Management Blog"
 languageCode: "en-us"
 theme: liquidbytes
 copyright: "You are free to share"
 publishDir: "../lastzero.github.io"
+outputFormats:
+  html:
+    minify: true
+  json:
+    minify: true
 
+minificationOptions:
+  KeepConditionalComments: true
+  KeepEndTags: false
 
 params:
   twitter:

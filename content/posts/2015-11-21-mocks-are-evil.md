@@ -51,23 +51,25 @@ To improve the testing productivity of my team, I created a library called [Te
 
 Here&#8217;s an example of a test case &#8211; note the **setUp()** method, which get&#8217;s the ready-to-use object from the dependency injection container:
 
-    use TestTools\TestCase\UnitTestCase;
-    
-    class FooTest extends UnitTestCase
+{{< highlight php >}}
+use TestTools\TestCase\UnitTestCase;
+
+class FooTest extends UnitTestCase
+{
+    protected $foo;
+
+    public function setUp()
     {
-        protected $foo;
-    
-        public function setUp()
-        {
-            $this->foo = <strong>$this->get('foo')</strong>;
-        }
-    
-        public function testBar()
-        {
-            $result = $this->foo->bar('Pi', 2);
-            $this->assertEquals(3.14, $result);
-        }
+        $this->foo = <strong>$this->get('foo')</strong>;
     }
+
+    public function testBar()
+    {
+        $result = $this->foo->bar('Pi', 2);
+        $this->assertEquals(3.14, $result);
+    }
+}
+{{< / highlight >}}
 
 You&#8217;ll get **fresh instances** in every test, so there is **no global state** that could harm our tests. From that point of view, they run in isolation. The compiled service definitions in the container are reused however for performance reasons.
 
@@ -79,18 +81,19 @@ The concept of [self-initializing fakes][3] as test doubles can be applied to al
 
 `SelfInitializingFixtureTrait` enables existing classes to work with file based fixtures (record and playback):
 
-    use TestTools\Fixture\SelfInitializingFixtureTrait;
-    
-    class Foo extends SomeBaseClass
+{{< highlight php >}}
+use TestTools\Fixture\SelfInitializingFixtureTrait;
+
+class Foo extends SomeBaseClass
+{
+    use SelfInitializingFixtureTrait;
+
+    public function bar($name, $type, array $baz = array())
     {
-        use SelfInitializingFixtureTrait;
-    
-        public function bar($name, $type, array $baz = array())
-        {
-            return $this->callWithFixtures('bar', func_get_args());
-        }
+        return $this->callWithFixtures('bar', func_get_args());
     }
-    
+}
+{{< / highlight >}}
 
 To cover some of the most common use cases, **Doctrine DBAL** (SQL) is supported out of the box.
 
