@@ -1,28 +1,28 @@
 ---
-title: Open-Source Projects
+title: Open Source Projects
 author: Michael Mayer
 type: page
 date: 2015-11-20T11:54:46+00:00
 
 ---
 
-#### <a href="https://photoprism.org/" target="_blank" rel="noopener">PhotoPrism: Personal photo management powered by Go and Google TensorFlow</a>
+##### <a href="https://photoprism.org/" target="_blank" rel="noopener">PhotoPrism: Personal photo management powered by Go and Google TensorFlow</a>
 
 PhotoPrism is a server-based application for browsing, organizing and sharing your personal photo collection. It makes use of the latest technologies to automatically tag and find pictures without getting in your way.
 
-#### <a href="https://github.com/symlex/symlex" target="_blank" rel="noopener">Symlex: A complete framework stack for agile Web development</a>
+##### <a href="https://github.com/symlex/symlex" target="_blank" rel="noopener">Symlex: A complete framework stack for agile Web development</a>
 
 Symlex is designed to be simple with few concepts to understand &#8211; so that you can start implementing instead of wasting time on Stack Overflow. Since its first release in 2014, it has proven to be well suited for rapidly building microservices, CLI and single-page applications. It comes complete with working examples from testing to forms and database abstraction. Simply delete what you don&#8217;t need.
 
-#### <a href="http://lastzero.github.io/test-tools" target="_blank" rel="noopener">TestTools: A service container and self-initializing fakes for PHPUnit</a>
+##### <a href="http://lastzero.github.io/test-tools" target="_blank" rel="noopener">TestTools: A service container and self-initializing fakes for PHPUnit</a>
 
 Improves testing productivity by adding a configurable service container and self-initializing fakes to PHPUnit.
 
-#### <a href="https://github.com/symlex/doctrine-active-record" target="_blank" rel="noopener">Doctrine ActiveRecord: Object-oriented CRUD for Doctrine DBAL</a>
+##### <a href="https://github.com/symlex/doctrine-active-record" target="_blank" rel="noopener">Doctrine ActiveRecord: Object-oriented CRUD for Doctrine DBAL</a>
 
 As a lightweight alternative to Doctrine ORM, this library provides Business Model and Database Access Object (DAO) classes that encapsulate Doctrine DBAL to provide high-performance, object-oriented CRUD (create, read, update, delete) functionality for relational databases.
 
-#### <a href="https://github.com/symlex/input-validation" target="_blank" rel="noopener">InputValidation: A secure whitelist validation layer for input data of any origin</a>
+##### <a href="https://github.com/symlex/input-validation" target="_blank" rel="noopener">InputValidation: A secure whitelist validation layer for input data of any origin</a>
 
 This library provides whitelist validation (&#8220;accept known good&#8221;) that is perfectly suited for building secure REST services. It uses programming language independent validation rules (plain array) that can be reused for additional client-side validation (JavaScript) or passed to template rendering engines such as Twig. By design, it is compatible with any framework and input source (HTML, REST, RPC, &#8230;).
 
@@ -37,7 +37,7 @@ This library provides whitelist validation (&#8220;accept known good&#8221;) tha
 
 ## Former Projects
 
-### [Adaptive Website Framework (AWF)][5]
+##### [Adaptive Website Framework (AWF)][5]
 
 AWF was an open-source CMS and development framework based on PHP 5. It featured support for multiple Web sites and languages, content versioning, caching, staging, community-portal functions, image upload and galleries, a lexicon, a modular full-text search engine, fully flexible URLs, XML and PDF export as well as RSS and LDAP support. It was maintained from 2000 until 2008.
 

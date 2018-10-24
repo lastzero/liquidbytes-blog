@@ -151,3 +151,40 @@ body {
 main {
   flex: 1 0 auto;
 }
+
+
+.sidenav .info-view {
+  position: relative;
+  padding: 32px 8px 32px 8px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.sidenav .info-view > a {
+  height: auto;
+  padding: 0;
+}
+
+.sidenav .info-view > a:hover {
+  background-color: transparent;
+}
+
+.sidenav .info-view .background {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.sidenav .info-view h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: auto;
+  max-width: 1044px;
+}

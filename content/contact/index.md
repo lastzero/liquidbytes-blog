@@ -24,8 +24,8 @@ Responsible for editorial content according to § 5 TMG / § 55 RStV:
 
 Umsatzsteueridentifikationsnummer: DE189758973
 
-Some German words are so long that they have a perspective.
-— Mark Twain
+Some German words are so long that they have a perspective.<br />
+— Mark Twain in his 1880 book ‘A Tramp Abroad’
 
 ### Privacy Policy ###
 There are no cookies used on this site. Some content may be

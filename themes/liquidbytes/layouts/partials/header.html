@@ -33,11 +33,18 @@
             {{ block "nav-menu" . }}{{ end }}
             </ul>
 
-            <ul id="nav-mobile" class="sidenav">
-            {{ $.Scratch.Set "id" "dropdown-header-desktop" }}
-            {{ block "nav-menu" . }}{{ end }}
-            </ul>
             <a href="#" data-target="nav-mobile" class="sidenav-trigger grey-text text-darken-4"><i class="material-icons">menu</i></a>
         </div>
     </nav>
 </div>
+
+<ul id="nav-mobile" class="sidenav">
+    <li><div class="info-view white-text">
+        <div class="background">
+            <img src="/img/sidebar.jpg">
+        </div>
+        <h3><span class="dark-shadow">Software Engineering &amp; Management Blog</span></h3>
+    </div></li>
+    {{ $.Scratch.Set "id" "dropdown-header-desktop" }}
+    {{ block "nav-menu" . }}{{ end }}
+</ul>
