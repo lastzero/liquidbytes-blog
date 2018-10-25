@@ -64,6 +64,6 @@ I hope this write-up is insightful for recruiters and entertaining for others. 
  [8]: https://mayflower.de/
  [9]: https://crate.io/
  [10]: http://jan.prima.de/
- [11]: https://lastzero.net/2015/10/how-to-conduct-a-great-it-job-interview/
+ [11]: /2015/10/how-to-conduct-a-great-it-job-interview/
  [12]: https://github.com/lastzero/symlex
  [13]: https://www.linkedin.com/in/bergerdeleon

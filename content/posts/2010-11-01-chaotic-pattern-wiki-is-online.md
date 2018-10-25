@@ -14,7 +14,7 @@ tags:
   - PHP
 
 ---
-<img class="alignright size-medium wp-image-1235" title="Chaotic Pattern Screenshot" src="http://www.nulldevice.de/wp-content/uploads/2010/11/Screenshot-Chaotic-Pattern-Google-Chrome-500x470.png" alt="" width="300" height="282" srcset="https://blog.liquidbytes.net/wp-content/uploads/2010/11/Screenshot-Chaotic-Pattern-Google-Chrome-500x470.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2010/11/Screenshot-Chaotic-Pattern-Google-Chrome.png 736w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignright size-medium wp-image-1235" title="Chaotic Pattern Screenshot" src="http://www.nulldevice.de/wp-content/uploads/2010/11/Screenshot-Chaotic-Pattern-Google-Chrome-500x470.png" alt="" width="300" height="282" srcset="/wp-content/uploads/2010/11/Screenshot-Chaotic-Pattern-Google-Chrome-500x470.png 500w, /wp-content/uploads/2010/11/Screenshot-Chaotic-Pattern-Google-Chrome.png 736w" sizes="(max-width: 300px) 100vw, 300px" />
 
 I recently managed to publish my latest project:
 

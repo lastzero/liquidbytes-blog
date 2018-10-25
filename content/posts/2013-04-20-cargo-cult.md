@@ -33,7 +33,7 @@ Another example are coding standards that pretend to increase the quality. To co
   * [A comment is an apology (butunclebob.com)][4]
   * [To Need Comments (c2 Wiki)][5]
 
-[<img class="alignright size-full wp-image-2270" src="https://lastzero.net/wp-content/uploads/2013/04/5197053749_f0bd8e290e.jpg" alt="Cargo Cult Phone" width="374" height="500" />][6]I could list many more examples like the widespread expectation that an SQL database gets faster whenever you add an index (not true!). The effects of cargo cult management can be observed on the larger scale, when
+[<img class="alignright size-full wp-image-2270" src="/wp-content/uploads/2013/04/5197053749_f0bd8e290e.jpg" alt="Cargo Cult Phone" width="374" height="500" />][6]I could list many more examples like the widespread expectation that an SQL database gets faster whenever you add an index (not true!). The effects of cargo cult management can be observed on the larger scale, when
 
   * proprietary software companies are getting into trouble and then start to pretend they&#8217;re doing &#8220;open source&#8221; without understanding the concept of free software
   * you see uninspired page layouts that are supposed to imitate the &#8220;Google experience&#8221;

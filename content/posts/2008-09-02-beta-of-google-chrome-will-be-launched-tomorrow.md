@@ -24,7 +24,7 @@ eval("try {\n_WidgetManager._HandleControllerResult('Blog1', 'backlinks',{'numBa
 
 JSONP seems to be unstable in certain conditions. What makes me wonder is why the browser starts to execute incomplete code and outputs that code in an alert dialog. So, it might as well be the fault of the Google Widgets error handler&#8230; but who cares anyway.
 
-[<img class="alignnone size-medium wp-image-865" title="Google Chrome Beta Screenshot" src="http://www.nulldevice.de/wp-content/uploads/2008/09/chrome2-500x418.png" alt="" width="500" height="418" srcset="https://blog.liquidbytes.net/wp-content/uploads/2008/09/chrome2-500x418.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2008/09/chrome2.png 800w" sizes="(max-width: 500px) 100vw, 500px" />][4]
+[<img class="alignnone size-medium wp-image-865" title="Google Chrome Beta Screenshot" src="http://www.nulldevice.de/wp-content/uploads/2008/09/chrome2-500x418.png" alt="" width="500" height="418" srcset="/wp-content/uploads/2008/09/chrome2-500x418.png 500w, /wp-content/uploads/2008/09/chrome2.png 800w" sizes="(max-width: 500px) 100vw, 500px" />][4]
 
  [1]: http://www.nulldevice.de/wp-content/uploads/2008/09/google-chrome.jpg
  [2]: http://books.google.com/books?id=8UsqHohwwVYC&printsec=frontcover

@@ -8,7 +8,7 @@ categories:
   - System Administration
 
 ---
-<img class="size-medium wp-image-1815 alignright" title="HP DL120 G7" src="http://lastzero.net/wp-content/uploads/2012/10/DL120-G7.14584e203388198a73d889fc7febb023883-500x375.jpeg" alt="" width="500" height="375" srcset="https://blog.liquidbytes.net/wp-content/uploads/2012/10/DL120-G7.14584e203388198a73d889fc7febb023883-500x375.jpeg 500w, https://blog.liquidbytes.net/wp-content/uploads/2012/10/DL120-G7.14584e203388198a73d889fc7febb023883.jpeg 640w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="size-medium wp-image-1815 alignright" title="HP DL120 G7" src="http://lastzero.net/wp-content/uploads/2012/10/DL120-G7.14584e203388198a73d889fc7febb023883-500x375.jpeg" alt="" width="500" height="375" srcset="/wp-content/uploads/2012/10/DL120-G7.14584e203388198a73d889fc7febb023883-500x375.jpeg 500w, /wp-content/uploads/2012/10/DL120-G7.14584e203388198a73d889fc7febb023883.jpeg 640w" sizes="(max-width: 500px) 100vw, 500px" />
 
 The primary domain for this blog is now **lastzero.net** and not nulldevice.de anymore. If you are using the old domain, you will be automatically redirected. Please update your bookmarks, links and RSS readers.
 

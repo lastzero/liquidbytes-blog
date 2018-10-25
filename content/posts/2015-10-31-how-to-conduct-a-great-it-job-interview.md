@@ -12,7 +12,7 @@ categories:
 If you own a software company or work there in HR, it is your goal to hire the best engineers for your business. So you certainly don&#8217;t want to mess up the recruitment process. As someone who&#8217;s in the industry for two decades (sitting on both sides of the table), I would like to share a few points about how to make an interview a positive and insightful experience for everyone.
 
 <p style="text-align: center;">
-  <a href="https://lastzero.net/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z.jpg"><img class="wp-image-2926 size-medium aligncenter" src="https://lastzero.net/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z-500x281.jpg" alt="" width="500" height="281" srcset="https://blog.liquidbytes.net/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z-500x281.jpg 500w, https://blog.liquidbytes.net/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z.jpg 640w" sizes="(max-width: 500px) 100vw, 500px" /></a><small>© <a href="https://www.flickr.com/photos/thedailyenglishshow/" target="_blank" rel="noopener">thedailyenglishshow</a></small>
+  <a href="/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z.jpg"><img class="wp-image-2926 size-medium aligncenter" src="/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z-500x281.jpg" alt="" width="500" height="281" srcset="/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z-500x281.jpg 500w, /wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z.jpg 640w" sizes="(max-width: 500px) 100vw, 500px" /></a><small>© <a href="https://www.flickr.com/photos/thedailyenglishshow/" target="_blank" rel="noopener">thedailyenglishshow</a></small>
 </p>
 
 ### Answer questions

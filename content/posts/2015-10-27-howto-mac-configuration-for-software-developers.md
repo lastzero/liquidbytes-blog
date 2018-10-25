@@ -44,7 +44,7 @@ Coming from Linux and FreeBSD, I initially didn&#8217;t feel comfortable worki
   
     This will add some color to your terminal and support for the _ll_ alias (_ls -alhG_). COPYFILE\_DISABLE prevents several of the system-supplied programs (including tar) from giving special meaning to .\_* archive members.
 
-#### [<img class="aligncenter size-medium wp-image-2833" src="https://lastzero.net/wp-content/uploads/2015/10/Terminal_Colors-500x443.png" alt="Terminal_Colors" width="500" height="443" srcset="https://blog.liquidbytes.net/wp-content/uploads/2015/10/Terminal_Colors-500x443.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2015/10/Terminal_Colors.png 665w" sizes="(max-width: 500px) 100vw, 500px" />][20]UI Settings
+#### [<img class="aligncenter size-medium wp-image-2833" src="/wp-content/uploads/2015/10/Terminal_Colors-500x443.png" alt="Terminal_Colors" width="500" height="443" srcset="/wp-content/uploads/2015/10/Terminal_Colors-500x443.png 500w, /wp-content/uploads/2015/10/Terminal_Colors.png 665w" sizes="(max-width: 500px) 100vw, 500px" />][20]UI Settings
 
   * Move the Dock to the left hand side, so that you can use the full height of your screen for coding (_Dock Preferences&#8230; -> Position on screen_)
   * Go to _System Preferences -> Notifications_ and reduce the amount of notifications as far as possible
@@ -66,7 +66,7 @@ You should disable the creation of Apple&#8217;s proprietary [.DS_Store][27] fi
 
 Don&#8217;t use the autoloader (_/etc/auto_*_) &#8211; it only causes trouble, as I had to find out the hard way. You&#8217;re lucky, if you never heard about it. Instead, add network drives to your _Login Items_, if you want to mount them automatically after login:
 
-<a href="https://lastzero.net/wp-content/uploads/2015/10/automount2.png" target="_blank"><img class="aligncenter wp-image-2812 size-medium" src="https://lastzero.net/wp-content/uploads/2015/10/automount2-500x362.png" alt="" width="500" height="362" srcset="https://blog.liquidbytes.net/wp-content/uploads/2015/10/automount2-500x362.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2015/10/automount2.png 668w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="/wp-content/uploads/2015/10/automount2.png" target="_blank"><img class="aligncenter wp-image-2812 size-medium" src="/wp-content/uploads/2015/10/automount2-500x362.png" alt="" width="500" height="362" srcset="/wp-content/uploads/2015/10/automount2-500x362.png 500w, /wp-content/uploads/2015/10/automount2.png 668w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 &nbsp;
 
@@ -101,7 +101,7 @@ When you&#8217;re done, don&#8217;t forget to [create SSH keys][28] and to unloc
  [17]: https://steelseries.com/gaming-mice/sensei
  [18]: http://downloads.steelseriescdn.com/drivers/tools/steelseries-exactmouse-tool.dmg
  [19]: http://apple.stackexchange.com/questions/21236/how-do-i-disable-chromes-two-finger-back-forward-navigation
- [20]: https://lastzero.net/wp-content/uploads/2015/10/Terminal_Colors.png
+ [20]: /wp-content/uploads/2015/10/Terminal_Colors.png
  [21]: https://en.wikipedia.org/wiki/Network_File_System
  [22]: http://users.wfu.edu/yipcw/atg/apple/smb/
  [23]: http://superuser.com/questions/250926/wont-read-unicode-characters-over-nfs-mount

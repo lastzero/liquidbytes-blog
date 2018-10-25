@@ -47,7 +47,7 @@ In the worst case, more than one test case fails, if just one class or function 
 
 To improve the testing productivity of my team, I created a library called [TestTools for PHPUnit][2]. It contains two independent components: A test case class with integrated service container for **easy dependency injection** using YAML config files and **self-initializing fixtures** as test doubles for storage backends such as SQL databases or REST services (record and replay). We&#8217;ve been using them for many years with great success in projects large and small.
 
-<img class="wp-image-3273 size-large aligncenter" src="https://lastzero.net/wp-content/uploads/2015/11/testtools-2-1024x555.png" width="1024" height="555" srcset="https://blog.liquidbytes.net/wp-content/uploads/2015/11/testtools-2-1024x555.png 1024w, https://blog.liquidbytes.net/wp-content/uploads/2015/11/testtools-2-500x271.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2015/11/testtools-2-768x416.png 768w, https://blog.liquidbytes.net/wp-content/uploads/2015/11/testtools-2.png 1152w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="wp-image-3273 size-large aligncenter" src="/wp-content/uploads/2015/11/testtools-2-1024x555.png" width="1024" height="555" srcset="/wp-content/uploads/2015/11/testtools-2-1024x555.png 1024w, /wp-content/uploads/2015/11/testtools-2-500x271.png 500w, /wp-content/uploads/2015/11/testtools-2-768x416.png 768w, /wp-content/uploads/2015/11/testtools-2.png 1152w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 Here&#8217;s an example of a test case &#8211; note the **setUp()** method, which get&#8217;s the ready-to-use object from the dependency injection container:
 

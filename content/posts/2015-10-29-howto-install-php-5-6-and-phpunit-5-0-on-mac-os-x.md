@@ -53,5 +53,5 @@ To download and install the latest version of composer:
 Composer version 1.0-dev (ef2856ef55715027ce2275f3b3bf1e84bfc778a4) 2015-10-29 22:35:30</pre>
 
  [1]: http://brew.sh/
- [2]: https://lastzero.net/2015/10/howto-mac-configuration-for-software-developers/
+ [2]: /2015/10/howto-mac-configuration-for-software-developers/
  [3]: http://php-osx.liip.ch/

@@ -24,7 +24,7 @@ Get an iMac / MacBook, if you don&#8217;t have one yet. **You won&#8217;t be abl
 
 **Install Apple Xcode** from the App Store. Start it and go to Xcode -> Preferences&#8230; -> Downloads. **Install &#8220;Command Line Tools&#8221;** and, if you like, &#8220;iOS 5.1 Simulator&#8221; (the iOS 6 Simulator should already be part of the latest Xcode). Wait until the installation is finished (takes a while, depending on your internet connection).
 
-[<img class="alignnone size-medium wp-image-1921" title="Xcode downloads" src="http://lastzero.net/wp-content/uploads/2012/10/2012-10-17_22-42-271-500x143.png" alt="" width="500" height="143" srcset="https://blog.liquidbytes.net/wp-content/uploads/2012/10/2012-10-17_22-42-271-500x143.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2012/10/2012-10-17_22-42-271.png 750w" sizes="(max-width: 500px) 100vw, 500px" />][3]
+[<img class="alignnone size-medium wp-image-1921" title="Xcode downloads" src="http://lastzero.net/wp-content/uploads/2012/10/2012-10-17_22-42-271-500x143.png" alt="" width="500" height="143" srcset="/wp-content/uploads/2012/10/2012-10-17_22-42-271-500x143.png 500w, /wp-content/uploads/2012/10/2012-10-17_22-42-271.png 750w" sizes="(max-width: 500px) 100vw, 500px" />][3]
 
 **Open the Terminal** app and type:
 
@@ -52,7 +52,7 @@ You can now start to **modify the application** using CSS, HTML and JavaScript.
 
 ### Deploy to your iPhone device
 
-<img class="size-medium wp-image-1922 alignright" style="margin-left: 20px; margin-bottom: 20px;" title="Deploy to iPhone" src="http://lastzero.net/wp-content/uploads/2012/10/2012-10-18_08-47-191-500x159.png" alt="" width="500" height="159" srcset="https://blog.liquidbytes.net/wp-content/uploads/2012/10/2012-10-18_08-47-191-500x159.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2012/10/2012-10-18_08-47-191.png 667w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="size-medium wp-image-1922 alignright" style="margin-left: 20px; margin-bottom: 20px;" title="Deploy to iPhone" src="http://lastzero.net/wp-content/uploads/2012/10/2012-10-18_08-47-191-500x159.png" alt="" width="500" height="159" srcset="/wp-content/uploads/2012/10/2012-10-18_08-47-191-500x159.png 500w, /wp-content/uploads/2012/10/2012-10-18_08-47-191.png 667w" sizes="(max-width: 500px) 100vw, 500px" />
 
   1. Register for the [iOS developer program][7] for **99 US-$/year**.
   2. **Connect your iPhone** via USB. If iTunes opens, close it. A dialog (&#8220;Organizer &#8211; Devices&#8221;) opens where you should see your phone. Click on &#8220;Use for development&#8221;. Make sure the **provisioning profiles** are configured/installed (this is what you actually pay for), otherwise you will see a &#8220;Code Signing Error&#8221; error while building the app. Also make sure the CFBundleIdentifier in Resources/Example Project-Info.plist is set to the identifier provided by Apple.

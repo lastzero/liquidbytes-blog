@@ -13,7 +13,7 @@ tags:
   - stencil
 
 ---
-[<img class="alignnone size-medium wp-image-1315" title="A tribute to LulzSec" src="http://www.nulldevice.de/wp-content/uploads/2011/06/LulzSec-412x500.jpg" alt="" width="412" height="500" srcset="https://blog.liquidbytes.net/wp-content/uploads/2011/06/LulzSec-412x500.jpg 412w, https://blog.liquidbytes.net/wp-content/uploads/2011/06/LulzSec.jpg 825w" sizes="(max-width: 412px) 100vw, 412px" />][1]
+[<img class="alignnone size-medium wp-image-1315" title="A tribute to LulzSec" src="http://www.nulldevice.de/wp-content/uploads/2011/06/LulzSec-412x500.jpg" alt="" width="412" height="500" srcset="/wp-content/uploads/2011/06/LulzSec-412x500.jpg 412w, /wp-content/uploads/2011/06/LulzSec.jpg 825w" sizes="(max-width: 412px) 100vw, 412px" />][1]
 
 This masterpiece can be admired at my condo, here in Berlin :)
 

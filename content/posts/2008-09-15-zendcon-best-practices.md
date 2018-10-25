@@ -33,6 +33,6 @@ Sadly, there were also less good ideas like
 
 Look at this, if you wanna see bad practices:
 
-[<img class="alignnone size-medium wp-image-883" title="Golem.de: PHP Bad Practices" alt="" src="https://lastzero.net/wp-content/uploads/2008/09/bad-practices-500x319.png" width="500" height="319" srcset="https://blog.liquidbytes.net/wp-content/uploads/2008/09/bad-practices-500x319.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2008/09/bad-practices.png 784w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+[<img class="alignnone size-medium wp-image-883" title="Golem.de: PHP Bad Practices" alt="" src="/wp-content/uploads/2008/09/bad-practices-500x319.png" width="500" height="319" srcset="/wp-content/uploads/2008/09/bad-practices-500x319.png 500w, /wp-content/uploads/2008/09/bad-practices.png 784w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
- [1]: https://lastzero.net/wp-content/uploads/2008/09/bad-practices.png
+ [1]: /wp-content/uploads/2008/09/bad-practices.png

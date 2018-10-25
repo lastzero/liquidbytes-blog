@@ -11,6 +11,6 @@ tags:
   - Travel
 
 ---
-[<img class="alignnone size-full wp-image-1578" title="Reunion Island" src="http://www.nulldevice.de/wp-content/uploads/2012/10/8062553231_3dd7280785_z.jpeg" alt="" width="640" height="426" srcset="https://blog.liquidbytes.net/wp-content/uploads/2012/10/8062553231_3dd7280785_z.jpeg 640w, https://blog.liquidbytes.net/wp-content/uploads/2012/10/8062553231_3dd7280785_z-500x332.jpeg 500w" sizes="(max-width: 640px) 100vw, 640px" />][1]
+[<img class="alignnone size-full wp-image-1578" title="Reunion Island" src="http://www.nulldevice.de/wp-content/uploads/2012/10/8062553231_3dd7280785_z.jpeg" alt="" width="640" height="426" srcset="/wp-content/uploads/2012/10/8062553231_3dd7280785_z.jpeg 640w, /wp-content/uploads/2012/10/8062553231_3dd7280785_z-500x332.jpeg 500w" sizes="(max-width: 640px) 100vw, 640px" />][1]
 
  [1]: http://www.flickr.com/photos/michael_mayer/sets/72157631711046059/

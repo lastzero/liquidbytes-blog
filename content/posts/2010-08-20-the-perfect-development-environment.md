@@ -43,7 +43,7 @@ As a PHP/JS/C/Perl developer, you will be happy with a US layout. As a consultan
 
 The best mouse I found so far is the Logitech Basic mouse and it is very cheap at the same time. It is available in gray and black. Perfect.
   
-[<img class="alignnone size-full wp-image-1155" title="Logitech Mouse" src="http://www.nulldevice.de/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg" alt="" width="300" height="300" srcset="https://blog.liquidbytes.net/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg 300w, https://blog.liquidbytes.net/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />][2]
+[<img class="alignnone size-full wp-image-1155" title="Logitech Mouse" src="http://www.nulldevice.de/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg 300w, /wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />][2]
 
 #### Minimizing Distractions
 

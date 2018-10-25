@@ -38,7 +38,7 @@ mkdir /tmp/nodejs
 make install DESTDIR=/tmp/nodejs/
 # Create RPM file (for Red Hat / CentOS)
 fpm -s dir -t rpm -n nodejs -v 0.8.25 -C /tmp/nodejs/ usr/bin usr/lib usr/share usr/include
-rpm -ivh <a href="https://lastzero.net/downloads/rpm/centos-6.3/nodejs-0.8.25-1.x86_64.rpm">nodejs-0.8.25-1.x86_64.rpm</a>
+rpm -ivh <a href="/downloads/rpm/centos-6.3/nodejs-0.8.25-1.x86_64.rpm">nodejs-0.8.25-1.x86_64.rpm</a>
 cd ../cloud9
 # Latest stable version
 git checkout v2.0.93
@@ -56,8 +56,8 @@ Be aware that the installation instructions change from time to time: You should
 
 Shortcut when using my pre-built CentOS 6.3 x86_64 RPMs ([Cloud9 2.0.93][14] and [node.js 0.8.25][15]):
 
-<pre>wget https://lastzero.net/downloads/rpm/centos-6.3/nodejs-0.8.25-1.x86_64.rpm
-wget https://lastzero.net/downloads/rpm/centos-6.3/cloud9-2.0.93-1.x86_64.rpm
+<pre>wget /downloads/rpm/centos-6.3/nodejs-0.8.25-1.x86_64.rpm
+wget /downloads/rpm/centos-6.3/cloud9-2.0.93-1.x86_64.rpm
 rpm -ivh nodejs-0.8.25-1.x86_64.rpm cloud9-2.0.93-1.x86_64.rpm
 npm install -g sm
 cd /var/www/cloud9/bin
@@ -71,7 +71,7 @@ cloud9.sh -w /var/www</pre>
  [3]: http://www.zend.com/en/products/studio/
  [4]: http://www.jetbrains.com/phpstorm/
  [5]: https://netbeans.org/
- [6]: https://lastzero.net/wp-content/uploads/2013/06/PhpStorm.png
+ [6]: /wp-content/uploads/2013/06/PhpStorm.png
  [7]: http://projects.gnome.org/gedit/
  [8]: http://ftp.gnome.org/pub/GNOME/binaries/mac/gedit/3.2/
  [9]: https://github.com/ajaxorg/cloud9/
@@ -79,6 +79,6 @@ cloud9.sh -w /var/www</pre>
  [11]: http://www.centos.org/
  [12]: http://www.ubuntu.com/download/server
  [13]: https://github.com/ajaxorg/cloud9/blob/v2.0.93/README.md
- [14]: https://lastzero.net/downloads/rpm/centos-6.3/cloud9-2.0.93-1.x86_64.rpm
- [15]: https://lastzero.net/downloads/rpm/centos-6.3/nodejs-0.8.25-1.x86_64.rpm
+ [14]: /downloads/rpm/centos-6.3/cloud9-2.0.93-1.x86_64.rpm
+ [15]: /downloads/rpm/centos-6.3/nodejs-0.8.25-1.x86_64.rpm
  [16]: https://help.ubuntu.com/community/SSH/OpenSSH/PortForwarding

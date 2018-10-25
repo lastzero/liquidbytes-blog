@@ -41,7 +41,7 @@ This library provides whitelist validation (&#8220;accept known good&#8221;) tha
 
 AWF was an open-source CMS and development framework based on PHP 5. It featured support for multiple Web sites and languages, content versioning, caching, staging, community-portal functions, image upload and galleries, a lexicon, a modular full-text search engine, fully flexible URLs, XML and PDF export as well as RSS and LDAP support. It was maintained from 2000 until 2008.
 
-[<img class="aligncenter size-full wp-image-2999" src="https://lastzero.net/wp-content/uploads/2015/11/0b9459656496dcfac56bf4cfd9095228_medium.png" alt="0b9459656496dcfac56bf4cfd9095228_medium" width="640" height="466" srcset="https://blog.liquidbytes.net/wp-content/uploads/2015/11/0b9459656496dcfac56bf4cfd9095228_medium.png 640w, https://blog.liquidbytes.net/wp-content/uploads/2015/11/0b9459656496dcfac56bf4cfd9095228_medium-500x364.png 500w" sizes="(max-width: 640px) 100vw, 640px" />][6]
+[<img class="aligncenter size-full wp-image-2999" src="/wp-content/uploads/2015/11/0b9459656496dcfac56bf4cfd9095228_medium.png" alt="0b9459656496dcfac56bf4cfd9095228_medium" width="640" height="466" srcset="/wp-content/uploads/2015/11/0b9459656496dcfac56bf4cfd9095228_medium.png 640w, /wp-content/uploads/2015/11/0b9459656496dcfac56bf4cfd9095228_medium-500x364.png 500w" sizes="(max-width: 640px) 100vw, 640px" />][6]
 
 &nbsp;
 
@@ -50,4 +50,4 @@ AWF was an open-source CMS and development framework based on PHP 5. It featured
  [3]: http://bldr.io/
  [4]: https://github.com/doctrine/DoctrineORMModule
  [5]: http://freecode.com/projects/awf
- [6]: https://lastzero.net/wp-content/uploads/2015/11/0b9459656496dcfac56bf4cfd9095228_medium.png
+ [6]: /wp-content/uploads/2015/11/0b9459656496dcfac56bf4cfd9095228_medium.png

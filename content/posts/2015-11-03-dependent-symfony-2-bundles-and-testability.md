@@ -15,7 +15,7 @@ categories:
 
 I just came across a <a href="http://stackoverflow.com/questions/24251539/how-to-test-a-shared-symfony-2-bundle-without-a-full-project/33494810#33494810" target="_blank"> question concerning Symfony 2 bundles and testability</a> on Stack Overflow that I would like to share with you.
 
-[<img class="alignright wp-image-2942" src="https://lastzero.net/wp-content/uploads/2015/11/dagdeps-500x375.png" alt="dagdeps" width="300" height="225" srcset="https://blog.liquidbytes.net/wp-content/uploads/2015/11/dagdeps-500x375.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2015/11/dagdeps.png 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="alignright wp-image-2942" src="/wp-content/uploads/2015/11/dagdeps-500x375.png" alt="dagdeps" width="300" height="225" srcset="/wp-content/uploads/2015/11/dagdeps-500x375.png 500w, /wp-content/uploads/2015/11/dagdeps.png 800w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 When using Symfony, inexperienced or insecure developers tend to use **lots of existing bundles**, because this seems to be the recommend way of building an application. Later, they wonder, why it&#8217;s so **hard to write unit and component tests** or they write <a href="http://symfony.com/doc/current/book/testing.html#functional-tests" target="_blank">functional tests</a> instead and call them unit tests, because this really seems to be the only possible way to write tests.
 
@@ -89,5 +89,5 @@ services:
 
 The difference is, this time you know what happens, with which classes you are actually working and how to mock them, if you need to. Also, you don&#8217;t need a full featured Symfony kernel now: Something lighter combined with the Symfony dependency injection will do as well. This is what I did when I combined Silex with the Symfony dependency injection container and called it <a href="https://github.com/lastzero/symlex" target="_blank">Symlex</a>. It almost feels like Symfony, but is much faster and fully testable. The downside is, you can not use bundles.
 
- [1]: https://lastzero.net/wp-content/uploads/2015/11/dagdeps.png
+ [1]: /wp-content/uploads/2015/11/dagdeps.png
  [2]: https://github.com/lastzero/symlex/blob/master/app/config/twig.yml

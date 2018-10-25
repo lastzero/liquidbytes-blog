@@ -59,4 +59,4 @@ See also:
   * <a href="https://www.owasp.org/index.php/Data_Validation#Where_to_include_business_rule_validation" target="_blank">OWASP &#8211; Where to include business rule validation</a>
   * <a href="http://lastzero.github.io/php-input-validation/" target="_blank">InputValidation for PHP &#8211; Easy & secure whitelist validation for input data of any origin</a>
 
- [1]: https://lastzero.net/2015/11/why-im-using-a-separate-layer-for-input-data-validation/
+ [1]: /2015/11/why-im-using-a-separate-layer-for-input-data-validation/

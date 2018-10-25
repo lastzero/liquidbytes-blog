@@ -29,7 +29,7 @@ For some reason, that doesn&#8217;t remove the preview button, which can be hidd
     display: none;
 }</pre>
 
-[<img class="size-medium wp-image-2631 alignright" alt="Cloud9 IDE" src="https://lastzero.net/wp-content/uploads/2013/06/Cloud9_WordPress-500x359.png" width="500" height="359" srcset="https://blog.liquidbytes.net/wp-content/uploads/2013/06/Cloud9_WordPress-500x359.png 500w, https://blog.liquidbytes.net/wp-content/uploads/2013/06/Cloud9_WordPress.png 964w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+[<img class="size-medium wp-image-2631 alignright" alt="Cloud9 IDE" src="/wp-content/uploads/2013/06/Cloud9_WordPress-500x359.png" width="500" height="359" srcset="/wp-content/uploads/2013/06/Cloud9_WordPress-500x359.png 500w, /wp-content/uploads/2013/06/Cloud9_WordPress.png 964w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
 Cloud9 2.0.93 seems to **crash in Chrome** from time to time. If you reload the file system tree on Chrome, the files and folders are not sorted alphabetically anymore. This is probably related to Chrome&#8217;s (V8) implementation of arrays and objects, which share the same code instead of using inheritance to separate the code in a clean way (iterating over array items is different than iterating over object properties &#8211; sometimes that gets mixed up).
 
@@ -50,7 +50,7 @@ There are also pre-built .deb packages for Ubuntu Server 12.04 available for dow
   * [/downloads/deb/ubuntu-12.04/cloud9\_2.0.93\_amd64.deb][3]
   * [/downloads/deb/ubuntu-12.04/nodejs\_0.8.25\_amd64.deb][4]
 
- [1]: https://lastzero.net/wp-content/uploads/2013/06/Cloud9_WordPress.png
+ [1]: /wp-content/uploads/2013/06/Cloud9_WordPress.png
  [2]: https://github.com/ajaxorg/cloud9/commit/73ab96d273124b2ddab71b8f08038a2d696b06b8
- [3]: https://lastzero.net/downloads/deb/ubuntu-12.04/cloud9_2.0.93_amd64.deb
- [4]: https://lastzero.net/downloads/deb/ubuntu-12.04/nodejs_0.8.25_amd64.deb
+ [3]: /downloads/deb/ubuntu-12.04/cloud9_2.0.93_amd64.deb
+ [4]: /downloads/deb/ubuntu-12.04/nodejs_0.8.25_amd64.deb
