@@ -1,6 +1,6 @@
 {{ define "menu-item" }}
 <li>
-    <a class="black-text" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
 </li>
 {{ end }}
 
@@ -13,7 +13,7 @@
                 {{ end }}
 </ul>
 <li>
-    <a class="dropdown-button black-text" href="#!"
+    <a class="dropdown-button" href="#!"
        data-activates="{{ $.Scratch.Get "id" }}-{{ $index }}">{{ $menu.Name }}
         <i class="material-icons right">arrow_drop_down</i>
     </a>
