@@ -42,8 +42,14 @@ body {
     margin-bottom: 16px;
 }
 
-article ul li, footer ul li {
-    line-height: 2;
+article ul li,
+footer ul li {
+    padding: 0 0 0.5rem 0;
+}
+
+article ul li:last-child,
+footer ul li:last-child {
+    padding: 0;
 }
 
 h1 {
@@ -232,5 +238,5 @@ nav ul li.active a {
 }
 
 nav ul li.active {
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
