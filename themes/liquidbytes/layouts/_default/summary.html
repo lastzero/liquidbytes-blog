@@ -1,9 +1,10 @@
 <article class="row max-width">
     <div class="col s12 l10 offset-l1">
-        <h3>
+        <h3 class="overview-title">
             <a class="indigo-text text-darken-1" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
         </h3>
-        <div>{{ partial "article-meta-short" . }}</div>
-        <div>{{ .Summary }}</div>
+        <div class="overview-meta">{{ partial "article-meta-short" . }}</div>
+        <div class="overview-summary">{{ .Summary }}</div>
+        <div class="overview-more"><a href="{{ .RelPermalink }}">Read more...</a></div>
     </div>
 </article>
