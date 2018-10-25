@@ -204,6 +204,14 @@ article img {
     height: auto;
 }
 
+article img.right {
+    margin: 0 0 8px 8px;
+}
+
+article img.left {
+    margin: 0 8px 8px 0;
+}
+
 article a:hover {
     text-shadow: -3px 0px 3px rgba(255, 255, 0, 0.5),
     3px 0px 3px rgba(255, 255, 0, 0.5),

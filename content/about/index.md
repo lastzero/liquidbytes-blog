@@ -1,12 +1,12 @@
 ---
-title: Hello
+title: History of Liquid Bytes
 author: Michael Mayer
 type: page
 date: 2008-04-30T08:00:36+00:00
 
 ---
 
-![Michael Mayer](https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=320)
+<img src="https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=200" alt="Michael Mayer" class="right" srcset="https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=400 2x" />
 
 Liquid Bytes was founded by Michael Mayer in 1997 as a software company specialized in content management systems, open-source solutions and Web hosting.
 Clients included small and medium-sized businesses as well as public organizations such as the University of Tübingen and the Department of Trade and Industry Baden-Württemberg.

@@ -68,11 +68,11 @@ menu:
     - Name: "Blog"
       URL: "/"
       Weight: 10
-    - Name: "About"
-      URL: "/about/"
-      Weight: 20
     - Name: "Open Source"
       URL: "/opensource/"
+      Weight: 20
+    - Name: "About"
+      URL: "/about/"
       Weight: 30
     - Name: "Contact"
       URL: "/contact/"
