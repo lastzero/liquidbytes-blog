@@ -1,5 +1,5 @@
 ---
-title: Let's connect
+title: Let's connect!
 author: Michael Mayer
 type: page
 date: 2015-10-29T09:46:13+00:00
@@ -7,7 +7,7 @@ date: 2015-10-29T09:46:13+00:00
 ---
 
 The best way to get in touch is to write an email to michael (at) liquidbytes (dot) net.
-I'd love to hear from you!
+I'd love to hear from you :-)
 
 You can also find me on [GitHub][1], [Twitter][2] and [LinkedIn][3].
 

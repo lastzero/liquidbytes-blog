@@ -15,7 +15,7 @@ From 2006 until 2009, Michael joined Zend Technologies as a freelance consultant
 With his many years of experience in the software business, he's now focused on helping his clients build rock-solid Web applications,
 leverage the full potential of agile software development and master management challenges.
 
-### Specialities
+### Skills & Experience
 
 * Agile Software Development
 * Kanban, Scrum, Simple Design, Refactoring and TDD
