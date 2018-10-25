@@ -6,7 +6,7 @@ date: 2013-04-21T11:20:49+00:00
 url: /2013/04/estimations-done-right/
 cover_image: /wp-content/uploads/2013/04/8701635182_624a209546_n.jpg
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
 
 ---
 <img class="alignright size-full wp-image-2324" alt="Sprint planing meeting" src="/wp-content/uploads/2013/04/7596651448_9d9e7fa258.jpg" width="500" height="333" />How reliable, useful and realistic are **effort estimations** and what are the implications of **different methodologies**? Since at least the 1960s, this is a hot topic for software engineers and their managers, although the importance of precise estimation is decreasing in the age of **agile development**.

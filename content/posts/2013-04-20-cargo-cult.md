@@ -6,7 +6,7 @@ date: 2013-04-20T11:51:21+00:00
 url: /2013/04/cargo-cult/
 cover_image: /wp-content/uploads/2013/04/9653526203_1aa7f43c95_z.jpg
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
   - 'Best Practices &amp; Quality'
 
 ---

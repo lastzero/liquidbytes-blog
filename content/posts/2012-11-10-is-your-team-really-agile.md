@@ -5,7 +5,7 @@ type: post
 date: 2012-11-09T23:19:52+00:00
 url: /2012/11/is-your-team-really-agile/
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
   - IEEE
   - Quotes
 

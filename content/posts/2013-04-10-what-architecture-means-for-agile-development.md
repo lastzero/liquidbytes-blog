@@ -6,7 +6,7 @@ date: 2013-04-10T21:58:13+00:00
 url: /2013/04/what-architecture-means-for-agile-development/
 cover_image: /wp-content/uploads/2013/04/14577593638_126b49fb1e_z.jpg
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
   - IEEE
   - Quotes
 

@@ -7,7 +7,7 @@ url: /2013/07/written-requirements-in-the-age-of-agile-development/
 cover_image: /wp-content/uploads/2013/07/9456561825_cb7b7c38f6_k-1170x772.jpg
 categories:
   - ACM
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
   - 'Best Practices &amp; Quality'
 
 ---

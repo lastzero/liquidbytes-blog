@@ -6,7 +6,7 @@ date: 2018-09-12T12:21:50+00:00
 url: /2018/09/the-nightmare-world-of-agile-we-created/
 cover_image: /wp-content/uploads/2018/09/office.jpg
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
 
 ---
 

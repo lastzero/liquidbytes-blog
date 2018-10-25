@@ -6,7 +6,7 @@ date: 2012-11-01T15:54:18+00:00
 url: /2012/11/self-organization-in-agile-teams/
 cover_image: /wp-content/uploads/2012/11/19756909364_7d49d63af8_o.jpg
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
 
 ---
 <img class="alignright size-full wp-image-2124" title="Birds flocking, an example of self-organization in biology" src="/wp-content/uploads/2012/11/birds.jpeg" alt="" width="250" height="188" />For years, I was arguing **against the believe** that agile teams are actually **self-organizing** (like a flock of birds), because every practitioner knows that there is a lot of **active organization and planing needed** for a software project to be successful &#8211; especially in agile environments. If the management doesn&#8217;t care, the team will barely feel the need to organize anything. From the business perspective you want to have clear **responsibilities** as well and not a situation where &#8220;everybody and no one&#8221; is responsible.

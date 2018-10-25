@@ -6,7 +6,7 @@ date: 2015-10-15T18:05:38+00:00
 url: /2015/10/reducing-the-software-value-gap/
 cover_image: /wp-content/uploads/2015/10/2014-communications-of-the-acm.png
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
 
 ---
 Research shows at least 50% of IT developers&#8217; time is wasted due to the following reasons:

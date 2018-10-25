@@ -6,7 +6,7 @@ date: 2012-11-08T16:49:38+00:00
 url: /2012/11/what-o-document-in-agile-projects/
 cover_image: /wp-content/uploads/2012/11/5885384256_11c22154a2_b.jpg
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
   - 'Best Practices &amp; Quality'
 tags:
   - Documentation

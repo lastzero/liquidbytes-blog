@@ -7,7 +7,7 @@ draft: true
 private: true
 url: /2013/04/thanks-for-the-feedback/
 categories:
-  - 'Agile &amp; Lean Management'
+  - 'Agile Software Development'
 
 ---
 Thanks for all the feedback concerning my last post about project and task estimation. I really appreciate it! :)
