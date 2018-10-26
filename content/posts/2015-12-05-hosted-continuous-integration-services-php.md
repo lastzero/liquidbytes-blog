@@ -2,6 +2,7 @@
 title: Hosted continuous integration services for PHP
 author: Michael Mayer
 type: post
+private: true
 date: 2015-12-04T23:28:34+00:00
 url: /2015/12/hosted-continuous-integration-services-php/
 cover_image: /wp-content/uploads/2015/12/droneio6.png

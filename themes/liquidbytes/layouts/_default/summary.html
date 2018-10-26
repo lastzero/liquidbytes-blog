@@ -4,7 +4,9 @@
             <a class="indigo-text text-darken-1" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
         </h3>
         <div class="overview-meta">{{ partial "article-meta-short" . }}</div>
+        {{ if .Summary }}
         <div class="overview-summary">{{ .Summary }}</div>
         <div class="overview-more"><a href="{{ .RelPermalink }}">Read more...</a></div>
+        {{ end }}
     </div>
 </article>

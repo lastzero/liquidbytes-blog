@@ -1,6 +1,7 @@
 ---
 title: 'Howto: Install PHP 5.5 and PHPUnit on OS X via Homebrew'
 author: Michael Mayer
+private: true
 type: post
 date: 2013-08-25T09:37:09+00:00
 url: /2013/08/howto-install-php-5-5-and-phpunit-on-os-x-via-homebrew/

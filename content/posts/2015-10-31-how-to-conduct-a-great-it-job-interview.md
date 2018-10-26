@@ -11,10 +11,6 @@ categories:
 ---
 If you own a software company or work there in HR, it is your goal to hire the best engineers for your business. So you certainly don&#8217;t want to mess up the recruitment process. As someone who&#8217;s in the industry for two decades (sitting on both sides of the table), I would like to share a few points about how to make an interview a positive and insightful experience for everyone.
 
-<p style="text-align: center;">
-  <a href="/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z.jpg"><img class="wp-image-2926 size-medium aligncenter" src="/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z-500x281.jpg" alt="" width="500" height="281" srcset="/wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z-500x281.jpg 500w, /wp-content/uploads/2015/10/17312561406_3d2f7bfaf4_z.jpg 640w" sizes="(max-width: 500px) 100vw, 500px" /></a><small>© <a href="https://www.flickr.com/photos/thedailyenglishshow/" target="_blank" rel="noopener">thedailyenglishshow</a></small>
-</p>
-
 ### Answer questions
 
 Don&#8217;t encourage the candidate to ask questions, if you&#8217;re not qualified or willing to answer them. It&#8217;s really frustrating to talk to someone who&#8217;s encouraging you to ask questions and every single time you get answers like: &#8220;Sorry, I can not answer that &#8211; I do not know the product in detail&#8221; or &#8220;We can answer that as soon as you start working here&#8221;. Do you expect your best candidates to ask self-answering questions? Great candidates are evaluating you, your company, and whether they really want to work for you.

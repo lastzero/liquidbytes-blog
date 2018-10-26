@@ -2,6 +2,7 @@
 title: 'Cloud9 IDE: My first impression'
 author: Michael Mayer
 type: post
+private: true
 date: 2013-06-20T14:18:02+00:00
 url: /2013/06/customizing-and-fixing-cloud9-ide/
 cover_image: /wp-content/uploads/2013/06/Cloud9_WordPress.png

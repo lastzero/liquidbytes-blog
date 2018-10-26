@@ -2,6 +2,7 @@
 title: Dependent Symfony 2 Bundles and Testability
 author: Michael Mayer
 type: post
+private: true
 date: 2015-11-03T12:37:13+00:00
 url: /2015/11/dependent-symfony-2-bundles-and-testability/
 cover_image: /wp-content/uploads/2015/11/4659170840_00b7bb432a_b.jpg

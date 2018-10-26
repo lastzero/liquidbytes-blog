@@ -1,6 +1,7 @@
 ---
 title: 'Howto: Install PHP, PHPUnit and Composer on Mac OS X'
 author: Michael Mayer
+private: true
 type: post
 date: 2015-10-29T13:24:18+00:00
 url: /2015/10/howto-install-php-5-6-and-phpunit-5-0-on-mac-os-x/

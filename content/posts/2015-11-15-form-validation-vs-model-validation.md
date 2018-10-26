@@ -1,5 +1,5 @@
 ---
-title: Form Validation vs Model Validation
+title: Key differences between client-side, input and model validation explained
 author: Michael Mayer
 type: post
 date: 2015-11-15T06:28:07+00:00
@@ -17,34 +17,43 @@ In general, **model validation** operates on **trusted** data (internal system s
 
 This separation makes it possible to build **reusable models**, **controllers** and **forms** that can be **loosely coupled** through dependency injection:
 
-    class UserController
+{{< highlight php >}}
+<?php
+class UserController
+{
+    protected $user;
+    protected $form;
+
+    public function __construct(User $user, UserForm $form)
     {
-        protected $user;
-        protected $form;
-    
-        public function __construct(User $user, UserForm $form)
-        {
-            $this->user = $user;
-            $this->form = $form;
-        }
-    
-        public function putAction($id, Request $request) // Update
-        {
-            $this->user->find($id); // Find entity (throws exception, if not found)
-            
-            $this->form->setDefinedValues($this->user->getValues()); // Initialization
-            $this->form->setDefinedWritableValues($request->request->all()); // Input values
-            $this->form->validate(); // Validation
-    
-            if($this->form->hasErrors()) {
-                throw new FormInvalidException($this->form->getFirstError());
-            }
-            
-            $this->user->update($this->form->getValues()); // Update values
-    
-            return $this->user->getValues(); // Return updated entity values
-        }
+        $this->user = $user;
+        $this->form = $form;
     }
+
+    public function putAction($id, Request $request) // Update
+    {
+        // Find entity (throws exception, if not found)
+        $this->user->find($id);
+
+        // Initialization
+        $this->form->setDefinedValues($this->user->getValues());
+        // Input values
+        $this->form->setDefinedWritableValues($request->request->all());
+        // Validation
+        $this->form->validate();
+
+        if($this->form->hasErrors()) {
+            throw new FormInvalidException($this->form->getFirstError());
+        }
+
+        // Update values
+        $this->user->update($this->form->getValues());
+
+        // Return updated entity values
+        return $this->user->getValues();
+    }
+}
+{{< / highlight >}}
 
 Think of input validation as **whitelist **validation (&#8220;accept known good&#8221;) and model validation as **blacklist** validation (&#8220;reject known bad&#8221;). Whitelist validation is **more secure** while blacklist validation prevents your model layer from being **overly ****constrained** to very specific use cases.
 

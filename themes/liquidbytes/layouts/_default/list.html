@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+{{ if .IsHome }}
 <div id="index-banner" class="parallax-container hide-on-med-and-down">
     <div class="section no-pad-bot">
         <div class="container">
@@ -18,17 +19,33 @@
     <div class="parallax"><img src="/img/paralax_home.jpg" alt="Unsplashed background img 1"></div>
 </div>
 
-{{ $truncate := default true .Site.Params.truncate }}
-{{ range .Paginator.Pages }}
 
+{{ $truncate := default true .Site.Params.truncate }}
+{{ $paginator := .Paginate (where (where .Pages "Type" "post") ".Params.private" "!=" "true") 10 }}
+{{ range .Paginator.Pages }}
     {{ if $truncate }}
         {{ .Render "summary" }}
     {{ else }}
         {{ .Render "content" }}
     {{ end }}
-
 {{ end }}
 
 {{ partial "paginator" . }}
+
+{{ else }}
+{{ $truncate := default true .Site.Params.truncate }}
+
+{{ range .Paginator.Pages }}
+    {{ if $truncate }}
+        {{ .Render "summary" }}
+    {{ else }}
+        {{ .Render "content" }}
+    {{ end }}
+{{ end }}
+
+{{ partial "paginator" . }}
+
+{{ end }}
+
 
 {{ end }}

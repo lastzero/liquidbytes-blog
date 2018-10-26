@@ -2,6 +2,7 @@
 title: 'Howto: Install Cloud9 IDE on CentOS 6.3 / Linux'
 author: Michael Mayer
 type: post
+private: true
 date: 2013-06-19T22:13:55+00:00
 url: /2013/06/howto-installing-cloud9-ide-on-centos-6-3-linux/
 cover_image: /wp-content/uploads/2013/06/6343968849_28e2a67616_z.jpg

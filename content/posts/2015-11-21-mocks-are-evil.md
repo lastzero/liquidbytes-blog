@@ -1,5 +1,5 @@
 ---
-title: Why less mocking can improve everyone’s testing experience
+title: Mocks are evil
 author: Michael Mayer
 type: post
 date: 2015-11-21T05:39:16+00:00
