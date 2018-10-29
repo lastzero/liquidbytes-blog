@@ -242,7 +242,3 @@ nav ul li.active a {
 nav ul li.active {
     background-color: rgba(0, 0, 0, 0.7);
 }
-
-div.overview-more {
-    margin-top: 1rem;
-}

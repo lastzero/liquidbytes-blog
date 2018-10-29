@@ -1,6 +1,6 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
-<ul class="pagination center-align">
+<ul class="pagination center-align no-print">
     <li class="{{ if not $pag.HasPrev }}disabled{{ else }}waves-effect{{ end }}">
         <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}"{{ end }} aria-label="Previous"><i class="material-icons">chevron_left</i></a>
     </li>

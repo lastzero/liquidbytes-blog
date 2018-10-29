@@ -22,6 +22,14 @@ html {
     -webkit-text-size-adjust: 100%;
     /* 2 */ }
 
+@page
+{
+    size: auto;   /* auto is the initial value */
+
+    /* this affects the margin in the printer settings */
+    margin: 15mm
+}
+
 /* Sections
        ========================================================================== */
 /**
@@ -47,7 +55,7 @@ section {
      */
 h1 {
     font-size: 2em;
-    margin: 0.67em 0; }
+    margin: 0; }
 
 /* Grouping content
        ========================================================================== */
@@ -668,3 +676,19 @@ acronym[title].no-reformat:after {
 .no-reformat acronym:after,
 .no-reformat a:after {
     content: ''; }
+
+
+article img {
+    max-width: 100%;
+    height: auto;
+}
+
+article img.right {
+    margin: 0 0 8px 8px;
+    float: right !important;
+}
+
+article img.left {
+    margin: 0 8px 8px 0;
+    float: left !important;
+}
