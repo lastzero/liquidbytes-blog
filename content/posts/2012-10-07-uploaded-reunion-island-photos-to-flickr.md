@@ -2,6 +2,7 @@
 title: Uploaded Reunion Island photos to Flickr
 author: Michael Mayer
 type: post
+private: true
 date: 2012-10-07T17:32:00+00:00
 url: /2012/10/uploaded-reunion-island-photos-to-flickr/
 categories:

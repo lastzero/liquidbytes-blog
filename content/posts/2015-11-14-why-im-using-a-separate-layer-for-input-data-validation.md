@@ -29,7 +29,7 @@ For semantic reasons, I call this additional validation layer the **forms layer*
 You&#8217;re welcome to check out my code on GitHub to see some practical examples:
 
   * [Interactive example forms][3] to play with (JavaScript)
-  * <a href="http://lastzero.github.io/php-input-validation/" target="_blank">InputValidation for PHP – Easy & secure whitelist validation for input data of any origin</a>
+  * <a href="https://github.com/symlex/input-validation" target="_blank">InputValidation for PHP – Easy & secure whitelist validation for input data of any origin</a>
 
  [1]: /wp-content/uploads/2015/11/68747470733a2f2f7777772e6c7563696463686172742e636f6d2f7075626c69635365676d656e74732f766965772f35343631663836372d616531632d343461342d623536352d3666373830613030636632372f696d6167652e706e67.png
  [2]: https://thephp.cc/neuigkeiten/2015/11/how-to-validate-data

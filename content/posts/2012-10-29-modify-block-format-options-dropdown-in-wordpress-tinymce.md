@@ -2,6 +2,7 @@
 title: 'Howto: Modify block format options dropdown in WordPress (TinyMCE)'
 author: Michael Mayer
 type: post
+private: true
 date: 2012-10-29T18:02:49+00:00
 url: /2012/10/modify-block-format-options-dropdown-in-wordpress-tinymce/
 categories:

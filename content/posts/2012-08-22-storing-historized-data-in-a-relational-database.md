@@ -4,7 +4,7 @@ author: Michael Mayer
 type: post
 date: 2012-08-22T10:09:39+00:00
 url: /2012/08/storing-historized-data-in-a-relational-database/
-cover_image: /wp-content/uploads/2012/08/Historization.png
+cover_image: /wp-content/uploads/2012/08/cover-database.jpg
 categories:
   - 'Databases &amp; XML'
   - 'Performance &amp; Security'
@@ -16,7 +16,7 @@ There are quite a few concepts that deal with storing historized data in a relat
 
 Spontaneously, these options come into my mind:
 
-  * **Using the built-in functionality **(for example, in the latest Oracle database). 
+  * **Using the built-in functionality **(for example, in the latest Oracle database).
       * Using black-box technology is dangerous, if you don&#8217;t understand it. It might also be hard to customize for your own needs.
       * It only works with selected and sometimes expensive DBMS.
       * If you invest the time to understand it, you can probably build something equally useful yourself (see last option below).

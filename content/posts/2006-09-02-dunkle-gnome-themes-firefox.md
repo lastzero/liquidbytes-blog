@@ -2,6 +2,7 @@
 title: 'Howto: Dunkle Gnome Themes und Firefox/Thunderbird'
 author: Michael Mayer
 type: post
+private: true
 date: 2006-09-02T17:51:57+00:00
 excerpt: |
   |

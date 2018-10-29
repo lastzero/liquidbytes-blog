@@ -210,12 +210,17 @@ article img {
     height: auto;
 }
 
-article img.right {
+article img.right,
+article img.alignright {
     margin: 0 0 8px 8px;
+    float: right !important;
 }
 
-article img.left {
+article img.left,
+article img.alignleft
+{
     margin: 0 8px 8px 0;
+    float: left !important;
 }
 
 article p a {

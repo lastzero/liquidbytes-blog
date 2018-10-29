@@ -1,5 +1,5 @@
 ---
-title: 'Howto: Write an iPhone app with PhoneGap'
+title: 'How to write an iPhone app with PhoneGap'
 author: Michael Mayer
 type: post
 date: 2012-10-18T07:32:04+00:00

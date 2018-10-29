@@ -2,6 +2,7 @@
 title: 'Howto: vsftpd mit virtuellen Usern einrichten'
 author: Michael Mayer
 type: post
+private: true
 date: 2007-06-22T13:15:17+00:00
 excerpt: |
   |

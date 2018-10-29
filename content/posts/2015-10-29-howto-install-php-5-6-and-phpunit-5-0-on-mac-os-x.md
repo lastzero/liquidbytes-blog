@@ -1,5 +1,5 @@
 ---
-title: 'Howto: Install PHP, PHPUnit and Composer on Mac OS X'
+title: 'How to install PHP, PHPUnit and Composer on Mac OS X'
 author: Michael Mayer
 private: true
 type: post

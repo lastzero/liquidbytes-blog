@@ -11,7 +11,7 @@ categories:
   - 'Best Practices &amp; Quality'
 
 ---
-[<img class="alignright size-medium wp-image-2644" alt="Space Shuttle Challenger" src="/wp-content/uploads/2013/07/Challenger1983-393x500.jpg" width="393" height="500" srcset="/wp-content/uploads/2013/07/Challenger1983-393x500.jpg 393w, /wp-content/uploads/2013/07/Challenger1983.jpg 600w" sizes="(max-width: 393px) 100vw, 393px" />][1]Many of today&#8217;s agile software projects are characterized by a lack of written requirements and other documentation. The rationale behind this is that requirements change &#8220;too often&#8221; to be written down. Project management might also be afraid that writing documents consumes too much time of developers and stakeholders. However, my personal experience is that projects with clearly defined and written requirements run much smoother and have less delays. Written documents are forcing developers to think and clarify open issues before they start coding. Sprint planning meetings tend to be shorter as well.
+Many of today&#8217;s agile software projects are characterized by a lack of written requirements and other documentation. The rationale behind this is that requirements change &#8220;too often&#8221; to be written down. Project management might also be afraid that writing documents consumes too much time of developers and stakeholders. However, my personal experience is that projects with clearly defined and written requirements run much smoother and have less delays. Written documents are forcing developers to think and clarify open issues before they start coding. Sprint planning meetings tend to be shorter as well.
 
 The June 2013 issue of Communications of the ACM contains an insightful article about the lessons learned during Space Shuttle software development at NASA:
 
@@ -28,5 +28,3 @@ Other important recommendations include:
   * Contractors should be closely managed. Commercial projects often use outsourcing and subcontracting without careful and detailed oversight of the process.
 
 Note that these recommendations are independent of the management technique being used. Scrum, for example, can not replace solid engineering practices. Agile development requires even more rigor than traditional processes. Otherwise, incomplete implementation of requirements, structural inefficiency and avoidable bugs are the result.
-
- [1]: /wp-content/uploads/2013/07/Challenger1983.jpg

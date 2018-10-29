@@ -10,7 +10,7 @@ categories:
 ---
 <img class="alignright size-full wp-image-2179" title="Responsibility & Control" src="/wp-content/uploads/2012/11/control.jpg" alt="" width="250" height="182" />There&#8217;s a **misconception about responsibility** that probably starts to establish in our brains during childhood. When we grow up, we get taught that responsibility means to **follow the established rules** of society (including our parents and the various educational institutions), which indeed **is a good start**. Now, the challenges we face in large software projects are much **more complex** and dynamic. The solutions can not be found in **simple rules** like doing your homework every day. Still, managers and also (to my surprise) many engineers are looking for **simple panaceas** to solve their problems automatically.
 
-> _Agile_ processes are not a _panacea_ and they are not _easy_ to implement. [&#8230;] These processes focus on code rather than documentation calling themselves agile because, unlike the traditional processes, they are adaptable, not rigid.
+> Agile processes are not a panacea and they are not easy to implement. [&#8230;] These processes focus on code rather than documentation calling themselves agile because, unlike the traditional processes, they are adaptable, not rigid.
   
 > <cite>Everette R. Keith, New York University, <a href="http://www.cs.nyu.edu/courses/spring03/V22.0474-001/lectures/agile/AgileDevelopmentDifferentApproach.pdf">Agile Software Development Processes</a></cite>
 

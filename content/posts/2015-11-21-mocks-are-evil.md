@@ -104,5 +104,5 @@ If you&#8217;re developing in PHP and like to give the tools a try, you can find
 <a href="https://github.com/lastzero/test-tools" target="_blank" rel="noopener">https://github.com/lastzero/test-tools</a>
 
  [1]: http://martinfowler.com/bliki/TestDouble.html
- [2]: http://lastzero.github.io/test-tools/
+ [2]: https://github.com/lastzero/test-tools
  [3]: http://martinfowler.com/bliki/SelfInitializingFake.html

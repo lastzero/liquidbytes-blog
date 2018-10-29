@@ -1,5 +1,5 @@
 ---
-title: Key differences between client-side, input and model validation explained
+title: Input, model and client-side validation explained
 author: Michael Mayer
 type: post
 date: 2015-11-15T06:28:07+00:00
@@ -66,6 +66,6 @@ Client-side (JavaScript or HTML) form validation is always just a convenience fe
 See also:
 
   * <a href="https://www.owasp.org/index.php/Data_Validation#Where_to_include_business_rule_validation" target="_blank">OWASP &#8211; Where to include business rule validation</a>
-  * <a href="http://lastzero.github.io/php-input-validation/" target="_blank">InputValidation for PHP &#8211; Easy & secure whitelist validation for input data of any origin</a>
+  * <a href="https://github.com/symlex/input-validation" target="_blank">InputValidation for PHP &#8211; Easy & secure whitelist validation for input data of any origin</a>
 
  [1]: /2015/11/why-im-using-a-separate-layer-for-input-data-validation/

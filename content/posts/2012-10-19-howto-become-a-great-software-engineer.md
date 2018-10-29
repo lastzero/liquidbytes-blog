@@ -1,14 +1,15 @@
 ---
-title: 'Howto: Become a great Software Engineer'
+title: 10 steps to become a great software engineer
 author: Michael Mayer
 type: post
 date: 2012-10-19T10:26:46+00:00
+cover_image: /wp-content/uploads/2012/10/cover-engineer.jpg
 url: /2012/10/howto-become-a-great-software-engineer/
 categories:
   - 'Best Practices &amp; Quality'
 
 ---
-<img class="alignright size-full wp-image-1961" style="margin-left: 20px; margin-bottom: 20px;" title="Books" src="http://lastzero.net/wp-content/uploads/2012/10/books.jpg" alt="" width="250" height="183" />After working in the industry for over a decade, this is my personal summary of the key elements for a successful and satisfying career as software engineer (and a reminder to myself):
+After working in the industry for over a decade, this is my personal summary of the key elements for a successful and satisfying career as software engineer (and a reminder to myself):
 
   1. **Contribute to open-source projects** &#8211; ideally applications or libraries you already use yourself. Don&#8217;t blame me, if you end up &#8220;working&#8221; in your spare time.
   2. Read and understand _[The Risks Of Stopping Too Soon][1]_ by David Parnas. **Do your best not to stop too soon.** It is very tempting to say you&#8217;re &#8220;done&#8221;, if you got impatient colleagues or customers. Or if you got a lazy day. Fix things the following day then.

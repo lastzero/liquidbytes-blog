@@ -1,5 +1,5 @@
 ---
-title: 'Howto: Connect to a Cisco VPN using Ubuntu Linux 10.04'
+title: 'How to connect to a Cisco VPN using Ubuntu Linux 10.04'
 author: Michael Mayer
 type: post
 date: 2010-06-21T19:03:39+00:00
