@@ -24,7 +24,7 @@
 {{ end }}
 {{ $.Scratch.Delete "id" }}
 {{ end }}
-<div class="navbar-fixed">
+<div class="navbar-fixed no-print">
     <nav class="white" role="navigation">
         <div class="nav-wrapper container">
             <a id="logo-container" href="/" class="brand-logo right">{{ partial "brand" . }}</a>
@@ -38,7 +38,7 @@
     </nav>
 </div>
 
-<ul id="nav-mobile" class="sidenav">
+<ul id="nav-mobile" class="sidenav no-print">
     <li><div class="info-view white-text">
         <div class="background">
             <img src="/img/sidebar.jpg">
