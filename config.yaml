@@ -92,8 +92,8 @@ menu:
     - Name: "PhotoPrism"
       URL: "https://photoprism.org/"
       Weight: 10
-    - Name: "TweetHog"
-      URL: "https://github.com/lastzero/tweethog"
+    - Name: "TestTools"
+      URL: "https://github.com/lastzero/test-tools"
       Weight: 20
     - Name: "Symlex"
       URL: "https://github.com/symlex"

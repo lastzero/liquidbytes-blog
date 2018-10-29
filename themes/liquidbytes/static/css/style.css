@@ -115,8 +115,12 @@ p {
 }
 
 .parallax-container .section {
-    padding-top: 20px;
+    padding-top: 40px;
     width: 100%;
+}
+
+.parallax-container .parallax {
+    background-color: #003a5c;
 }
 
 @media only screen and (max-width: 992px) {

@@ -5,7 +5,7 @@
 <ul>
     {{ range . }}
     <li>
-        <a class="white-text" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+        <a class="white-text" href="{{ .URL | relLangURL }}" target="_blank">{{ .Name }}</a>
     </li>
     {{ end }}
 </ul>
