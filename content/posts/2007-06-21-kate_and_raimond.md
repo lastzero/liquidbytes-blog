@@ -16,6 +16,6 @@ categories:
 ---
 Kate and Raimond from Melbourne, Australia stayed at my place for the last 5 days. They just left and I&#8217;d like to thank them for being my guests!
 
-[<img class="alignnone size-medium wp-image-762" title="kate_and_raimond1" src="http://www.nulldevice.de/wp-content/uploads/2008/04/kate_and_raimond1.jpg" alt="" width="500" height="318" />][1]
+[<img class="alignnone size-medium wp-image-762" title="kate_and_raimond1" src="https://blog.liquidbytes.net/wp-content/uploads/2008/04/kate_and_raimond1.jpg" alt="" width="500" height="318" />][1]
 
- [1]: http://www.nulldevice.de/wp-content/uploads/2008/04/kate_and_raimond1.jpg
+ [1]: https://blog.liquidbytes.net/wp-content/uploads/2008/04/kate_and_raimond1.jpg

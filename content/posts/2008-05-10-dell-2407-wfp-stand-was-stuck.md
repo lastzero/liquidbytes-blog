@@ -17,7 +17,7 @@ tags:
 
 I had the same problem with my display and tried to solve it on smart way for months. After virtually fixing everything else in my flat, I started working on this problem again today. I hate unsolved problems. As there were no other options left, I used the &#8220;hammer method&#8221; and there we go! :)
 
-[<img class="alignnone size-full wp-image-797" title="Dell 2407WFP" src="http://www.nulldevice.de/wp-content/uploads/2008/05/dell_2407wfp.jpg" alt="" width="500" height="375" />][2]
+[<img class="alignnone size-full wp-image-797" title="Dell 2407WFP" src="https://blog.liquidbytes.net/wp-content/uploads/2008/05/dell_2407wfp.jpg" alt="" width="500" height="375" />][2]
 
  [1]: http://www.hardforum.com/archive/index.php/t-1192085.html
- [2]: http://www.nulldevice.de/wp-content/uploads/2008/05/dell_2407wfp.jpg
+ [2]: https://blog.liquidbytes.net/wp-content/uploads/2008/05/dell_2407wfp.jpg

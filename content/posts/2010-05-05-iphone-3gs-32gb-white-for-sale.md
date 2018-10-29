@@ -15,7 +15,7 @@ tags:
   - Windows
 
 ---
-Ever wanted to buy an [**iPhone 3GS**][1] [][1]without T-Mobile contract? Now you can buy mine on [eBay][1]! Starting at 1 EUR :)[<img class="alignright size-full wp-image-1111" title="iPhone 3GS, 32GB, white" src="http://www.nulldevice.de/wp-content/uploads/2010/05/iPhone-003.jpg" alt="" width="250" height="450" />][2]
+Ever wanted to buy an [**iPhone 3GS**][1] [][1]without T-Mobile contract? Now you can buy mine on [eBay][1]! Starting at 1 EUR :)[<img class="alignright size-full wp-image-1111" title="iPhone 3GS, 32GB, white" src="https://blog.liquidbytes.net/wp-content/uploads/2010/05/iPhone-003.jpg" alt="" width="250" height="450" />][2]
 
 So, why is that? **I love to embrace change**. I hate DRM, and I hate big companies that forget what innovation means, I hate company policies that prevent me from using the full potential of my computing device. Microsoft used to be the evil company number 1, but nowadays things change: I see Apple and Google right before Microsoft. They are the successful ones now, and they need to defend that position (I would do the same). They need to earn a lot of money for the share holders and they need to comply with a lot of different contracts they have with other companies. Probably, they can also not experiment anymore to the full extend. Whatever.
 
@@ -38,4 +38,4 @@ The only remaining option is Palm. I thought they will simply run out of money. 
 For that reason, I am going to sell the iPhone now. It&#8217;s not a bad product, but I don&#8217;t feel like it&#8217;s the best I can get. I feel like I am forced by Apple to buy things I don&#8217;t really need or want. **I want my freedom back.**
 
  [1]: http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&item=260597527150&ssPageName=STRK:MESELX:IT
- [2]: http://www.nulldevice.de/wp-content/uploads/2010/05/iPhone-003.jpg
+ [2]: https://blog.liquidbytes.net/wp-content/uploads/2010/05/iPhone-003.jpg

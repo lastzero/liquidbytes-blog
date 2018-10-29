@@ -14,6 +14,6 @@ tags:
 ---
 Just came back from the botanic garden and brought this iPad 3 wallpaper with me (2048&#215;2048 px):
 
-[<img class="alignnone size-medium wp-image-1382" title="green_2048" src="http://www.nulldevice.de/wp-content/uploads/2012/04/green_2048-500x500.jpg" alt="" width="500" height="500" srcset="/wp-content/uploads/2012/04/green_2048-500x500.jpg 500w, /wp-content/uploads/2012/04/green_2048-150x150.jpg 150w, /wp-content/uploads/2012/04/green_2048-1024x1024.jpg 1024w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+[<img class="alignnone size-medium wp-image-1382" title="green_2048" src="https://blog.liquidbytes.net/wp-content/uploads/2012/04/green_2048-500x500.jpg" alt="" width="500" height="500" srcset="/wp-content/uploads/2012/04/green_2048-500x500.jpg 500w, /wp-content/uploads/2012/04/green_2048-150x150.jpg 150w, /wp-content/uploads/2012/04/green_2048-1024x1024.jpg 1024w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
- [1]: http://www.nulldevice.de/wp-content/uploads/2012/04/green_2048.jpg
+ [1]: https://blog.liquidbytes.net/wp-content/uploads/2012/04/green_2048.jpg

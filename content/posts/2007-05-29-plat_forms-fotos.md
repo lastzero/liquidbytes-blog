@@ -1,8 +1,9 @@
 ---
-title: plat_forms photos online
+title: 'Plat_Forms 2007: The Web Development Platform Comparison'
 author: Michael Mayer
 type: post
 date: 2007-05-29T00:42:02+00:00
+cover_image: /wp-content/uploads/2007/team_8.jpg
 excerpt: |
   |
     Some of [http://www.nulldevice.eu/image/tid/42 the photos] from the [http://www.plat-forms.org/2007 plat_forms 2007 contest] are published on this website now!
@@ -13,9 +14,11 @@ categories:
   - 'Conferences &amp; Events'
 
 ---
-Some of the photos from the <a href="http://www.plat-forms.org/2007" target="_blank">plat_forms 2007 contest</a> are published now!
+Some of the photos from the <a href="https://alvar.a-blast.org/plat_forms/" target="_blank">plat_forms 2007 contest</a> are published now!
 
-[<img class="aligncenter size-full wp-image-770" title="plat_forms" src="http://www.nulldevice.de/wp-content/uploads/2008/04/plat_forms.jpg" alt="" width="500" height="281" />][1]
+Download the full results as PDF:
+
+[Plat_Forms 2007: The Web Development Platform Comparison — Evaluation and Results](/wp-content/uploads/2007/platforms_2007_results.pdf)
 
 <!--break-->
 
@@ -30,7 +33,3 @@ In just 30 hours, the teams will implement as much of the requested functionalit
 These items will then be subject to a thorough evaluation according to scientific standards with respect to the criteria mentioned above. As most of the results cannot be quantified and many cannot even be ranked in a neutral fashion, there will be no one-dimensional result ranking of the systems. Rather, there will be an extensive report describing the findings.
 
 There will be no overall &#8220;winner&#8221; of the contest. However, there will be a winning team per platform. A monetary price will be awarded for each of these teams.
-
-(Quoted from http://www.plat-forms.org/2007/about-the-contest/)
-
- [1]: http://www.nulldevice.de/wp-content/uploads/2008/04/plat_forms.jpg

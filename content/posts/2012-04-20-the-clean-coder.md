@@ -15,7 +15,7 @@ tags:
 ---
 I&#8217;m currently reading [The Clean Coder][1] by Robert C. Martin. Here are some of my favorite quotes:
 
-<img class=" wp-image-1414 alignright" style="margin-left: 20px;" title="The Clean Coder" src="http://www.nulldevice.de/wp-content/uploads/2012/04/the_clean_coder.jpg" alt="" width="308" height="400" />
+<img class=" wp-image-1414 alignright" style="margin-left: 20px;" title="The Clean Coder" src="https://blog.liquidbytes.net/wp-content/uploads/2012/04/the_clean_coder.jpg" alt="" width="308" height="400" />
 
 #### Caffeine
 

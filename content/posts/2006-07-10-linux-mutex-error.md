@@ -2,6 +2,7 @@
 title: Rettung in letzter Sekunde
 author: Michael Mayer
 type: post
+private: true
 date: 2006-07-10T14:01:30+00:00
 excerpt: |
   |

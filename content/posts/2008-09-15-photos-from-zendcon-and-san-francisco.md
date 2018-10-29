@@ -14,6 +14,6 @@ tags:
   - ZendCon2008
 
 ---
-[<img class="alignnone size-medium wp-image-889" title="got badge?" src="http://www.nulldevice.de/wp-content/uploads/2008/09/googlebadge-414x500.jpg" alt="" width="414" height="500" srcset="/wp-content/uploads/2008/09/googlebadge-414x500.jpg 414w, /wp-content/uploads/2008/09/googlebadge.jpg 500w" sizes="(max-width: 414px) 100vw, 414px" />][1]
+[<img class="alignnone size-medium wp-image-889" title="got badge?" src="https://blog.liquidbytes.net/wp-content/uploads/2008/09/googlebadge-414x500.jpg" alt="" width="414" height="500" srcset="/wp-content/uploads/2008/09/googlebadge-414x500.jpg 414w, /wp-content/uploads/2008/09/googlebadge.jpg 500w" sizes="(max-width: 414px) 100vw, 414px" />][1]
 
  [1]: http://flickr.com/photos/michael_mayer/sets/72157607305044375/

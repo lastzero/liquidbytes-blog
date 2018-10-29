@@ -10,6 +10,6 @@ tags:
   - wallpaper
 
 ---
-[<img class="alignnone size-medium wp-image-1450" title="Kaunertal Wallpaper" src="http://www.nulldevice.de/wp-content/uploads/2012/05/wallpaper-500x333.jpg" alt="" width="500" height="333" srcset="/wp-content/uploads/2012/05/wallpaper-500x333.jpg 500w, /wp-content/uploads/2012/05/wallpaper-1024x682.jpg 1024w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+[<img class="alignnone size-medium wp-image-1450" title="Kaunertal Wallpaper" src="https://blog.liquidbytes.net/wp-content/uploads/2012/05/wallpaper-500x333.jpg" alt="" width="500" height="333" srcset="/wp-content/uploads/2012/05/wallpaper-500x333.jpg 500w, /wp-content/uploads/2012/05/wallpaper-1024x682.jpg 1024w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
  [1]: /wp-content/uploads/2012/05/wallpaper.jpg

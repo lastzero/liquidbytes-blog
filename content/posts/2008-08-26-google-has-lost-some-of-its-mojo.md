@@ -11,7 +11,7 @@ tags:
   - Slashdot
 
 ---
-<img src="http://www.nulldevice.de/wp-content/uploads/2008/05/blinking_google_toy_small.jpg" alt="" align="right" />As you can see from my recent postings, the [submission on Slashdot][1] asking **Has Google Lost Its Mojo?** is no surprise to me. Here&#8217;s an interesting comment:
+<img src="https://blog.liquidbytes.net/wp-content/uploads/2008/05/blinking_google_toy_small.jpg" alt="" align="right" />As you can see from my recent postings, the [submission on Slashdot][1] asking **Has Google Lost Its Mojo?** is no surprise to me. Here&#8217;s an interesting comment:
 
 > Speaking as a Googler, &#8220;some&#8221; is an understatement. The best and brightest have been exiting Google at the earliest for months, leaving behind the political climbers, backbiters and the just plain incompetent. Now Google mainly runs on interns, everybody else is too &#8220;smart&#8221; to do the grunt work like coding, debugging, or much at all beyond getting face time. The reason for this is simple: narcissistic managers whose main talent is claiming credit for the work of their subordinates while punishing anyone who shows initiative, and thus possibly could get promoted. These days at Google, showing skill and dedication is a great way to get a bad review from your manager. Eric and friends seem blissfully unaware of the developing train wreck. _by Anonymous Coward  <span id="comment_otherdetails_24744501" class="otherdetails">on Monday August 25, @07:39PM (<a href="http://tech.slashdot.org/comments.pl?sid=656847&cid=24744501">#24744501</a>)</span>_
 

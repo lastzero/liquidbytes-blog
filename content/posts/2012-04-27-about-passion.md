@@ -12,7 +12,7 @@ tags:
   - Startup
 
 ---
-[<img class="alignright size-full wp-image-1433" style="margin-left: 20px; margin-bottom: 20px;" title="Challenger explosion" src="http://www.nulldevice.de/wp-content/uploads/2012/04/296px-Challenger_explosion.jpg" alt="" width="296" height="240" />][1]What does **passion** mean for a Software Engineer? Depends on the context. First, and that&#8217;s what start-up companies usually expect from their employes, it means you **love the company**, the business idea and the team you work with. Some people are also **passionate about their Apple computer**/phone/tablet in a similar way (the term &#8220;[Fanboy][2]&#8221; is frequently used in Web forums to describe this behavior). *
+[<img class="alignright size-full wp-image-1433" style="margin-left: 20px; margin-bottom: 20px;" title="Challenger explosion" src="https://blog.liquidbytes.net/wp-content/uploads/2012/04/296px-Challenger_explosion.jpg" alt="" width="296" height="240" />][1]What does **passion** mean for a Software Engineer? Depends on the context. First, and that&#8217;s what start-up companies usually expect from their employes, it means you **love the company**, the business idea and the team you work with. Some people are also **passionate about their Apple computer**/phone/tablet in a similar way (the term &#8220;[Fanboy][2]&#8221; is frequently used in Web forums to describe this behavior). *
 
 Second, it can mean that you **stay ahead of the curve** and have **strong opinions about how to do your job** (independent from the company you&#8217;re currently working for): For example, I&#8217;m obsessed with **clean code and unit tests**. When I&#8217;m using a component library and come across a class that does not work for my project (too slow, too many bugs, too complex or does too many things at once,&#8230;), I insist on looking for an alternative from another library or even write my own code to replace it. When I see the need for a refactoring, I will do it. Although this is a certain effort and not the &#8220;easy way&#8221;, I am more than happy to do it because it is better than producing a mess in the long run. It&#8217;s **not good enough to have a halfway working solution** and collect technical debt, just because you are too lazy, somebody insists on using the &#8220;standard library&#8221; or says &#8220;there is no time for refactoring&#8221;. It&#8217;s also **not good enough to omit unit tests** because &#8220;the class can not be tested&#8221;. Passionate developers commonly contribute to one or more open-source projects.
 
@@ -26,7 +26,7 @@ So, **in the first case, the concept of passion is used by others** to either co
 
 * I&#8217;m not blaming anyone for using an Apple device (this blog post was written on an iMac), but there is strong evidence that this company consciously uses passion for its marketing strategy, see [http://www.marketingminds.com.au/][4] or [http://www.urban75.net/][5]
 
- [1]: http://www.nulldevice.de/wp-content/uploads/2012/04/296px-Challenger_explosion.jpg
+ [1]: https://blog.liquidbytes.net/wp-content/uploads/2012/04/296px-Challenger_explosion.jpg
  [2]: https://twitter.com/#!/agnoster/status/195806414218866688
  [3]: http://news.cnet.com/8301-17852_3-20068295-71/report-teen-sells-kidney-to-buy-ipad-2/
  [4]: http://www.marketingminds.com.au/branding/apple_branding_strategy.html

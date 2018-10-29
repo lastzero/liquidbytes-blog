@@ -11,7 +11,7 @@ tags:
   - Ubuntu
 
 ---
-#### [<img class="alignright size-medium wp-image-1802" style="margin-left: 20px; margin-bottom: 20px;" title="Xubuntu 12.10 with Terminal and Gedit" src="http://www.nulldevice.de/wp-content/uploads/2012/10/desktop1-500x394.png" alt="" width="500" height="394" srcset="/wp-content/uploads/2012/10/desktop1-500x394.png 500w, /wp-content/uploads/2012/10/desktop1.png 923w" sizes="(max-width: 500px) 100vw, 500px" />][1]Do you also think coding Web applications on OS X, Windows or even Ubuntu with Gnome 3 doesn&#8217;t feel right?
+#### [<img class="alignright size-medium wp-image-1802" style="margin-left: 20px; margin-bottom: 20px;" title="Xubuntu 12.10 with Terminal and Gedit" src="https://blog.liquidbytes.net/wp-content/uploads/2012/10/desktop1-500x394.png" alt="" width="500" height="394" srcset="/wp-content/uploads/2012/10/desktop1-500x394.png 500w, /wp-content/uploads/2012/10/desktop1.png 923w" sizes="(max-width: 500px) 100vw, 500px" />][1]Do you also think coding Web applications on OS X, Windows or even Ubuntu with Gnome 3 doesn&#8217;t feel right?
 
 There are reasons: First, the production servers for probably **85% of all Web apps run on Linux**: If you need special extensions, libraries or other tools, you know how difficult it can be to get them compiled, installed and running on &#8220;non-standard&#8221; environments and how easy it can be on a Debian/Ubuntu system.
 
@@ -33,7 +33,7 @@ Since my desktop hardware is an iMac, I decided to install it in a VMware Fusion
 
 If you installed Xubuntu in a virtual machine, you should **install the VMware tools first**. Select &#8220;Virtual Machine > Install VMware Tools&#8221; from the VMware menu and then extract the files into any directory. Open a terminal window, change into that directory and type &#8220;sudo ./vmware-config-tools.pl&#8221;. The installation should run smoothly.
 
-**[<img class="alignleft size-medium wp-image-1754" style="margin-right: 20px; margin-bottom: 20px;" title="Synaptic Package Manager" src="http://www.nulldevice.de/wp-content/uploads/2012/10/Synaptic-500x407.png" alt="" width="500" height="407" srcset="/wp-content/uploads/2012/10/Synaptic-500x407.png 500w, /wp-content/uploads/2012/10/Synaptic.png 735w" sizes="(max-width: 500px) 100vw, 500px" />][2]Xubuntu will also notify you about a lot of updated packages**, if you got a working internet connection. You should install them before you continue customizing your system.
+**[<img class="alignleft size-medium wp-image-1754" style="margin-right: 20px; margin-bottom: 20px;" title="Synaptic Package Manager" src="https://blog.liquidbytes.net/wp-content/uploads/2012/10/Synaptic-500x407.png" alt="" width="500" height="407" srcset="/wp-content/uploads/2012/10/Synaptic-500x407.png 500w, /wp-content/uploads/2012/10/Synaptic.png 735w" sizes="(max-width: 500px) 100vw, 500px" />][2]Xubuntu will also notify you about a lot of updated packages**, if you got a working internet connection. You should install them before you continue customizing your system.
 
 #### Customization for Web developers
 

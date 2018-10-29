@@ -16,6 +16,6 @@ Every now and then you read, that the maximum you need on a desktop are two core
 
 This screenshot was taken during a work session:
 
-[<img class="alignnone size-medium wp-image-969" title="screenshot-system-monitor" src="http://www.nulldevice.de/wp-content/uploads/2008/11/screenshot-system-monitor-500x403.png" alt="" width="500" height="403" srcset="/wp-content/uploads/2008/11/screenshot-system-monitor-500x403.png 500w, /wp-content/uploads/2008/11/screenshot-system-monitor.png 609w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+[<img class="alignnone size-medium wp-image-969" title="screenshot-system-monitor" src="https://blog.liquidbytes.net/wp-content/uploads/2008/11/screenshot-system-monitor-500x403.png" alt="" width="500" height="403" srcset="/wp-content/uploads/2008/11/screenshot-system-monitor-500x403.png 500w, /wp-content/uploads/2008/11/screenshot-system-monitor.png 609w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
- [1]: http://www.nulldevice.de/wp-content/uploads/2008/11/screenshot-system-monitor.png
+ [1]: https://blog.liquidbytes.net/wp-content/uploads/2008/11/screenshot-system-monitor.png

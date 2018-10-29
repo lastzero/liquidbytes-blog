@@ -2,6 +2,7 @@
 title: XSS Probleme in PEAR::Text_Wiki 1.1.0
 author: Michael Mayer
 type: post
+private: true
 date: 2006-06-10T16:52:12+00:00
 excerpt: |
   Gestern habe ich durch Zufall einen [http://de.wikipedia.org/wiki/Cross-Site_Scripting XSS] Bug in Text_Wiki entdeckt... wundert mich, dass das vor mir niemand aufgefallen ist... mal sehen, ob es auch eine News-Site melden wird - so oft verwendet wird Text_Wiki wohl nicht...

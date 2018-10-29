@@ -30,7 +30,7 @@ categories:
   * [Google MapReduce][14]
   * [WordPress 2.5][15]
   * [last.fm][16]
-  * <a rel="bookmark" href="http://www.nulldevice.de/2008/05/privoxy-howto/">Privoxy</a>
+  * <a rel="bookmark" href="https://blog.liquidbytes.net/2008/05/privoxy-howto/">Privoxy</a>
   * [Dyson DC20 Animalpro™][17]
   * [Canon EOS 5D][18]
   * [Skype][19]

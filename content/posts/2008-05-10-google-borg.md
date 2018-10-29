@@ -9,7 +9,7 @@ categories:
   - Google
 
 ---
-> [<img class="alignright size-full wp-image-782" title="Small blinking Google toy" src="http://www.nulldevice.de/wp-content/uploads/2008/05/blinking_google_toy_small.jpg" alt="" width="150" height="78" />][1]We are Google. Resistance is futile. You will be data mined. We will add your informational distinctiveness to our database. Your culture will adapt to be serviced by us.
+> [<img class="alignright size-full wp-image-782" title="Small blinking Google toy" src="https://blog.liquidbytes.net/wp-content/uploads/2008/05/blinking_google_toy_small.jpg" alt="" width="150" height="78" />][1]We are Google. Resistance is futile. You will be data mined. We will add your informational distinctiveness to our database. Your culture will adapt to be serviced by us.
 
 [Stefan Tobaben][2]
 
@@ -17,6 +17,6 @@ categories:
 
 [PHPVikinger.org: Things that have no name][3]
 
- [1]: http://www.nulldevice.de/wp-content/uploads/2008/05/blinking_google_toy_small.jpg
+ [1]: https://blog.liquidbytes.net/wp-content/uploads/2008/05/blinking_google_toy_small.jpg
  [2]: http://www.tobsy.de/?p=61
  [3]: http://mysqldump.azundris.com/archives/55-phpvikinger.org-Things-that-have-no-name.html

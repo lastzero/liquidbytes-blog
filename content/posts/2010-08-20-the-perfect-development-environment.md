@@ -25,7 +25,7 @@ If you do an on-site consulting job, better not keep the client from asking ques
 
 I prefer a simple chair. All the fancy furniture didn&#8217;t work for me:
 
-[<img class="alignnone size-full wp-image-1154" title="Fancy Chair" src="http://www.nulldevice.de/wp-content/uploads/2010/08/variable_mystic1.jpg" alt="" width="254" height="219" />][1]
+[<img class="alignnone size-full wp-image-1154" title="Fancy Chair" src="https://blog.liquidbytes.net/wp-content/uploads/2010/08/variable_mystic1.jpg" alt="" width="254" height="219" />][1]
 
 And a desk made of real wood, not that crappy and cheap IKEA stuff made of plastic and particle board. No dinning room table, those are usually too high (76cm). Remember that the keyboard/notebook has a certain height too. The perfect desk is 73cm high. I agree it should be simple, without &#8220;cubby holes, drawers and cord hiders&#8221;.
 
@@ -43,7 +43,7 @@ As a PHP/JS/C/Perl developer, you will be happy with a US layout. As a consultan
 
 The best mouse I found so far is the Logitech Basic mouse and it is very cheap at the same time. It is available in gray and black. Perfect.
   
-[<img class="alignnone size-full wp-image-1155" title="Logitech Mouse" src="http://www.nulldevice.de/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg 300w, /wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />][2]
+[<img class="alignnone size-full wp-image-1155" title="Logitech Mouse" src="https://blog.liquidbytes.net/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg 300w, /wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />][2]
 
 #### Minimizing Distractions
 
@@ -91,5 +91,5 @@ And yes, it can use plug-ins and you can write your own, if you feel something i
 
 I don&#8217;t know.
 
- [1]: http://www.nulldevice.de/wp-content/uploads/2010/08/variable_mystic1.jpg
- [2]: http://www.nulldevice.de/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg
+ [1]: https://blog.liquidbytes.net/wp-content/uploads/2010/08/variable_mystic1.jpg
+ [2]: https://blog.liquidbytes.net/wp-content/uploads/2010/08/Logitech-Optical-Wheels-Mou.jpg

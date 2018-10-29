@@ -1,11 +1,9 @@
 ---
-title: Teil der Welt
+title: 'Teil der Welt: Fraktale einer Ethik'
 author: Michael Mayer
 type: post
 date: 2006-05-22T12:57:11+00:00
-excerpt: |
-  |
-    Ich lese gerade "Teil der Welt" von Foerster und Monika Broecker, die ich neulich kennengelernt habe. Wenn ich Zeit habe schreibe ich mehr darueber... eine Sache fand ich nur sehr interessant zu lesen... von Foester hatte Besuch von einer Vegetarierin die immer ein kleines Scharfes Messer zum Fruehstueck wollte:
+cover_image: /wp-content/uploads/2006/teilderwelt.jpg
 url: /2006/05/geschichte-vom-kleinen-scharfen-messer-heinz-von-foerster/
 categories:
   - 'Science &amp; Philosophy'

@@ -16,7 +16,7 @@ Heute ist der [Google Entwickler Tag][1]. Ich wurde eingeladen hier im Side Hote
 
 Da ich seit gestern eine Vodafone UMTS Karte in meinem Notebook habe, werde ich so frei sein und live ueber den Event schreiben. Ich glaube zwar nicht, dass der Tag heute in die Geschichte eingehen wird, aber was macht man sonst mit einer UMTS-Flatrate? Davon abgesehen bildet sich vor mir gerade eine riesen Schlange am Check-in. Ich war natuerlich schon um 11.10 vor Ort, aber trotz eines bunten Pfeiles (-> Registrierung) in Richtung der netten Damen, wurde ich aufgefordert mich hinzusetzen und zu warten. Natuerlich haben sie dann doch vor 11.30 angefangen. Naja, nun sitze ich hier und werde ganz smart warten, bis ich nicht mehr anstehen muss. Ob es dann noch Lunch gibt, ist die andere Frage ;)
 
-[<img class="alignright size-full wp-image-768" title="Developer Day 2007" src="http://www.nulldevice.de/wp-content/uploads/2008/04/developer_day_2007.jpg" alt="" width="200" height="262" />][2]
+[<img class="alignright size-full wp-image-768" title="Developer Day 2007" src="https://blog.liquidbytes.net/wp-content/uploads/2008/04/developer_day_2007.jpg" alt="" width="200" height="262" />][2]
 
 Es gab noch Lunch! Ich hatte Seeteufel und Rinderfilet mit [wilden Kartoffeln][3]. Muelleimer gibt es nicht, sondern man muss die Reste an die Menschen mit den weissen Hemden ueberreichen, was etwas anstrengend ist, aber wohl als Service gewertet werden sollte. Nun wartet man im Raum XL auf die Eroeffnungs-Ansprache. Ein gratis Google T-Shirt hat man uebrigens auch erhalten.
 
@@ -36,14 +36,14 @@ Im ersten Vortrag (Maps API, Raum L) spricht **Steffen Meschkat**, Google New Yo
 
 **Fazit:** Nette Veranstaltung, nette Leute, gutes Essen aber nur 2 Frauen anwesend. Angeblich sei das typisch in Deutschland. Aber man kann ja niemand zwingen. Siehe auch [pop64.de][8].
 
-[<img class="aligncenter size-full wp-image-769" title="Google Helicopter" src="http://www.nulldevice.de/wp-content/uploads/2008/04/google_helicopter.jpg" alt="" width="500" height="212" />][9]
+[<img class="aligncenter size-full wp-image-769" title="Google Helicopter" src="https://blog.liquidbytes.net/wp-content/uploads/2008/04/google_helicopter.jpg" alt="" width="500" height="212" />][9]
 
  [1]: http://video.google.com/videoplay?docid=6304687408656696643
- [2]: http://www.nulldevice.de/wp-content/uploads/2008/04/developer_day_2007.jpg
+ [2]: https://blog.liquidbytes.net/wp-content/uploads/2008/04/developer_day_2007.jpg
  [3]: http://www.webkoch.de/rezept/48583,Wilde+Kartoffeln
  [4]: http://www.4d-consulting.com/
  [5]: http://www.google.de/maps?hl=de&q=side%20hotel&near=Hamburg&ie=UTF8&ll=53.557493%2C9.986143&spn=0.030285%2C0.076389&z=14&iwloc=A&om=1
  [6]: http://www.mozilla.org/projects/security/components/same-origin.html
  [7]: http://en.wikipedia.org/wiki/Representational_State_Transfer
  [8]: http://www.pop64.de/blog/2007/05/31/fazit-google-developer-day-hamburg/
- [9]: http://www.nulldevice.de/wp-content/uploads/2008/04/google_helicopter.jpg
+ [9]: https://blog.liquidbytes.net/wp-content/uploads/2008/04/google_helicopter.jpg

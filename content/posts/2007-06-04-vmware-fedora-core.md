@@ -2,6 +2,7 @@
 title: VMware Server on Fedora Core 6
 author: Michael Mayer
 type: post
+private: true
 date: 2007-06-04T20:11:37+00:00
 excerpt: |
   |
