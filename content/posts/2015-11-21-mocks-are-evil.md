@@ -49,9 +49,10 @@ To improve the testing productivity of my team, I created a library called [Te
 
 <img class="wp-image-3273 size-large aligncenter" src="/wp-content/uploads/2015/11/testtools-2-1024x555.png" width="1024" height="555" srcset="/wp-content/uploads/2015/11/testtools-2-1024x555.png 1024w, /wp-content/uploads/2015/11/testtools-2-500x271.png 500w, /wp-content/uploads/2015/11/testtools-2-768x416.png 768w, /wp-content/uploads/2015/11/testtools-2.png 1152w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-Here&#8217;s an example of a test case &#8211; note the **setUp()** method, which get&#8217;s the ready-to-use object from the dependency injection container:
+Here&#8217;s an example of a test case &#8211; note the **setUp()** method, which get&#8217;s the ready-to-use object from the service container:
 
 {{< highlight php >}}
+<?php
 use TestTools\TestCase\UnitTestCase;
 
 class FooTest extends UnitTestCase
@@ -60,7 +61,7 @@ class FooTest extends UnitTestCase
 
     public function setUp()
     {
-        $this->foo = <strong>$this->get('foo')</strong>;
+        $this->foo = $this->get('foo');
     }
 
     public function testBar()
@@ -82,6 +83,7 @@ The concept of [self-initializing fakes][3] as test doubles can be applied to al
 `SelfInitializingFixtureTrait` enables existing classes to work with file based fixtures (record and playback):
 
 {{< highlight php >}}
+<?php
 use TestTools\Fixture\SelfInitializingFixtureTrait;
 
 class Foo extends SomeBaseClass

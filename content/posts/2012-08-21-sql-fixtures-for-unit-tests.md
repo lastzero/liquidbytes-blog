@@ -28,38 +28,43 @@ The alternative should be really easy to come up with, but I&#8217;ve rarely see
 
 How does that look like in reality? First, you should use some fixture class to compose the fixture file name and to read/write/serialize the data (for example source code, see <a title="Opens github.com in a new window" href="https://github.com/smashedpumpkin/liquidlibrary/blob/master/Liquid/Fixture.php" target="_blank">Liquid_Fixture</a> on github). Second, you must modify your database adapter class to support optional fixtures:
 
-<pre class="code">$fixturePath = dirname(__FILE__) . '/_fixtures/';
+{{< highlight php >}}
+<?php
+$fixturePath = dirname(__FILE__) . '/_fixtures/';
 $db = new My_Db();
-$db-&gt;useFixtures($fixturePath);
-</pre>
+$db->useFixtures($fixturePath);
+{{< / highlight >}}
 
 Internally, the database adapter might look something like this (the example &#8211; which you can of course copy & paste into your application &#8211; is based on Zend_Db, but most adapters are similar):
 
-<pre class="code">class Liquid_Db extends Zend_Db_Adapter_* {
+{{< highlight php >}}
+<?php
+class Liquid_Db extends Zend_Db_Adapter_* {
     private $_fixturePath = false;
 
     public function __construct ($config) {
         parent::__construct ($config);
 
         if(isset($config['fixtures'])) {
-            $this-&gt;useFixtures($config['fixtures']);
+            $this->useFixtures($config['fixtures']);
         }
     }
 
     public function useFixtures ($fixturePath) {
-        $this-&gt;_fixturePath = Liquid_Fixture::normalizePath($fixturePath);
+        $this->_fixturePath = Liquid_Fixture::normalizePath($fixturePath);
     }
 
     public function disableFixtures () {
-        $this-&gt;_fixturePath = false;
+        $this->_fixturePath = false;
     }
 
     protected function callWithFixtures ($functionName, $params) {
-        if($this-&gt;_fixturePath) {
-            $fixture = new Liquid_Fixture($this-&gt;_fixturePath . Liquid_Fixture::getFilename($functionName, $params));
+        if($this->_fixturePath) {
+            $fixture = new Liquid_Fixture($this->_fixturePath
+                . Liquid_Fixture::getFilename($functionName, $params));
 
             try {
-                $result = $fixture-&gt;getData();
+                $result = $fixture->getData();
                 return $result;
             } catch (Liquid_Fixture_Exception $e) {
                 // No fixture found, the query has to be executed
@@ -68,47 +73,55 @@ Internally, the database adapter might look something like this (the example &#8
 
         $result = call_user_func_array(array('parent', $functionName), $params);
 
-        if($this-&gt;_fixturePath) {
-            $fixture-&gt;setData($result);
+        if($this->_fixturePath) {
+            $fixture->setData($result);
         }
 
         return $result;
     }
 
     public function fetchAll ($sql, $bind = array(), $fetchMode = null) {
-        return $this-&gt;callWithFixtures('fetchAll', array($sql, $bind, $fetchMode));
+        return $this->callWithFixtures(
+            'fetchAll', array($sql, $bind, $fetchMode));
     }
 
     public function fetchPairs ($sql, $bind = array()) {
-        return $this-&gt;callWithFixtures('fetchPairs', array($sql, $bind));
+        return $this->callWithFixtures(
+            'fetchPairs', array($sql, $bind));
     }
 
     public function fetchAssoc ($sql, $bind = array()) {
-        return $this-&gt;callWithFixtures('fetchAssoc', array($sql, $bind));
+        return $this->callWithFixtures(
+            'fetchAssoc', array($sql, $bind));
     }
 
     public function fetchOne ($sql, $bind = array()) {
-        return $this-&gt;callWithFixtures('fetchOne', array($sql, $bind));
+        return $this->callWithFixtures(
+            'fetchOne', array($sql, $bind));
     }
 
     public function fetchRow ($sql, $bind = array(), $fetchMode = null) {
-        return $this-&gt;callWithFixtures('fetchRow', array($sql, $bind, $fetchMode));
+        return $this->callWithFixtures(
+            'fetchRow', array($sql, $bind, $fetchMode));
     }
 
     public function fetchCol ($sql, $bind = array()) {
-        return $this-&gt;callWithFixtures('fetchCol', array($sql, $bind));
+        return $this->callWithFixtures(
+            'fetchCol', array($sql, $bind));
     }
 
     public function insert ($table, array $bind) {
-        return $this-&gt;callWithFixtures('insert', array($table, $bind));
+        return $this->callWithFixtures(
+            'insert', array($table, $bind));
     }
 
     public function update ($table, array $bind, $where = '') {
-        return $this-&gt;callWithFixtures('update', array($table, $bind, $where));
+        return $this->callWithFixtures(
+            'update', array($table, $bind, $where));
     }
 }
-</pre>
+{{< / highlight >}}
 
-Also see this general PHPUnit guide I wrote a while ago (German): <a href="http://www.chaoticpattern.net/#wiki/PHP%20Unit-Tests" target="_blank">http://www.chaoticpattern.net/#wiki/PHP%20Unit-Tests</a>
-
-* _&#8220;There is no time to save time.&#8221; (Gaylord Aulke)_
+> There is no time to save time.
+>
+> *Gaylord Aulke*

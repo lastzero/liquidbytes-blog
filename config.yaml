@@ -92,9 +92,9 @@ menu:
     - Name: "PhotoPrism"
       URL: "https://photoprism.org/"
       Weight: 10
+    - Name: "Symlex"
+      URL: "https://symlex.org/"
+      Weight: 20
     - Name: "TestTools"
       URL: "https://github.com/lastzero/test-tools"
-      Weight: 20
-    - Name: "Symlex"
-      URL: "https://github.com/symlex"
       Weight: 30

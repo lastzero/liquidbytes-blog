@@ -10,7 +10,7 @@ date: 2015-11-20T11:54:46+00:00
 
 PhotoPrism is a server-based application for browsing, organizing and sharing your personal photo collection. It makes use of the latest technologies to automatically tag and find pictures without getting in your way.
 
-##### <a href="https://github.com/symlex/symlex" target="_blank" rel="noopener">Symlex: A complete framework stack for agile Web development</a>
+##### <a href="https://symlex.org/" target="_blank" rel="noopener">Symlex: A lean framework stack for agile Web development</a>
 
 Symlex is designed to be simple with few concepts to understand &#8211; so that you can start implementing instead of wasting time on Stack Overflow. Since its first release in 2014, it has proven to be well suited for rapidly building microservices, CLI and single-page applications. It comes complete with working examples from testing to forms and database abstraction. Simply delete what you don&#8217;t need.
 
@@ -24,7 +24,7 @@ As a lightweight alternative to Doctrine ORM, this library provides Business Mod
 
 ##### <a href="https://github.com/symlex/input-validation" target="_blank" rel="noopener">InputValidation: A secure whitelist validation layer for input data of any origin</a>
 
-This library provides whitelist validation (&#8220;accept known good&#8221;) that is perfectly suited for building secure REST services. It uses programming language independent validation rules (plain array) that can be reused for additional client-side validation (JavaScript) or passed to template rendering engines such as Twig. By design, it is compatible with any framework and input source (HTML, REST, RPC, &#8230;).
+Provides whitelist validation (&#8220;accept known good&#8221;) that is perfectly suited for building secure REST services. It uses programming language independent validation rules (plain array) that can be reused for additional client-side validation (JavaScript) or passed to template rendering engines such as Twig. By design, it is compatible with any framework and input source (HTML, REST, RPC, &#8230;).
 
 ## Contributions
 
