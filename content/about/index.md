@@ -1,5 +1,5 @@
 ---
-title: History of Liquid Bytes
+title: About Liquid Bytes
 author: Michael Mayer
 type: page
 date: 2008-04-30T08:00:36+00:00
@@ -18,7 +18,7 @@ leverage the full potential of agile software development and master management 
 ### Skills & Experience
 
 * Agile Software Development
-* Kanban, Scrum, Simple Design, Refactoring and TDD
+* Kanban, [Scrum](https://www.scrum.org/user/416957), Simple Design, Refactoring and TDD
 * Interim Management
 * Capability Building and Coaching
 
