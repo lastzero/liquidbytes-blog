@@ -18,7 +18,7 @@ leverage the full potential of agile software development and master management 
 ### Skills & Experience
 
 * Agile Software Development
-* Kanban, [Scrum](https://www.scrum.org/user/416957), Simple Design, Refactoring and TDD
+* [Scrum](https://www.scrum.org/user/416957), Kanban, Simple Design, Refactoring and TDD
 * Interim Management
 * Capability Building and Coaching
 
