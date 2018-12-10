@@ -1,5 +1,5 @@
 ---
-title: Open Source Projects
+title: Open-Source Projects
 author: Michael Mayer
 type: page
 date: 2015-11-20T11:54:46+00:00

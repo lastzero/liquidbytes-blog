@@ -1,13 +1,12 @@
 ---
-title: How to get in touch
+title: Whatever it is, I'd love to hear from you!
 author: Michael Mayer
 type: page
 date: 2015-10-29T09:46:13+00:00
 
 ---
 
-The best way is to write an email to [michael@liquidbytes.net](mailto:michael@liquidbytes.net).
-Whatever it is, I'd love to hear from you!
+Feel free to reach out by writing an email to [michael@liquidbytes.net](mailto:michael@liquidbytes.net).
 
 You can also find me on [GitHub][1], [Twitter][2] and [LinkedIn][3].
 
@@ -24,8 +23,7 @@ Responsible for editorial content according to § 5 TMG / § 55 RStV:
 
 Umsatzsteueridentifikationsnummer: DE189758973
 
-Some German words are so long that they have a perspective.<br />
-— Mark Twain in his 1880 book ‘A Tramp Abroad’
+> Some German words are so long that they have a perspective. <br>— <cite>Mark Twain</cite>
 
 ### Privacy Policy ###
 There are no cookies used on this site. Some content may be
