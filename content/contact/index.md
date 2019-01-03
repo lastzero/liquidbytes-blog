@@ -21,11 +21,10 @@ Responsible for editorial content according to § 5 TMG / § 55 RStV:
   Germany
 </address>
 
-Umsatzsteueridentifikationsnummer: DE189758973
-
-> Some German words are so long that they have a perspective. <br>— <cite>Mark Twain</cite>
+USt-ID: DE189758973
 
 ### Privacy Policy ###
+
 There are no cookies used on this site. Some content may be
 loaded from external sources e.g. to improve performance or play videos.
 
