@@ -18,24 +18,24 @@ With 20+ years of experience in the software business, I can effectively help yo
 
 I'm currently [available](/contact/) for freelance projects with a focus on:
 
-* Agile Software Development
-* [Scrum](https://www.scrum.org/user/416957), Kanban, Simple Design, Refactoring and TDD
-* Interim Management
-* Capability Building and Coaching
+ - Agile Software Development (Go, PHP, JS)
+ - [Scrum](https://www.scrum.org/user/416957), Kanban, Simple Design, Refactoring and TDD
+ - Interim Management
+ - Capability Building and Coaching
 
 ### Customer Showcase
 
-* 100 DAYS GmbH, Stuttgart
-* 6 Wunderkinder GmbH, Berlin
-* Cewe Stiftung & Co. KGaA, Oldenburg
-* CMS Hasche Sigle, Berlin
-* Daimler Financial Services AG, Stuttgart
-* Deutsche Telekom AG, Darmstadt
-* HolidayCheck AG, Bottighofen
-* Magic Internet Musik GmbH, Berlin
-* Pantaflix AG, Berlin
-* PIN Digital GmbH, Berlin
-* Sparkassen Finanzportal GmbH, Berlin
-* Toyota Informations Systeme GmbH, Köln
-* T-Systems Multimedia Solutions GmbH, Stuttgart
-* Zend Technologies GmbH, Stuttgart
+ - 100 DAYS GmbH, Stuttgart
+ - 6 Wunderkinder GmbH, Berlin
+ - Cewe Stiftung & Co. KGaA, Oldenburg
+ - CMS Hasche Sigle, Berlin
+ - Daimler Financial Services AG, Stuttgart
+ - Deutsche Telekom AG, Darmstadt
+ - HolidayCheck AG, Bottighofen
+ - Magic Internet Musik GmbH, Berlin
+ - Pantaflix AG, Berlin
+ - PIN Digital GmbH, Berlin
+ - Sparkassen Finanzportal GmbH, Berlin
+ - Toyota Informations Systeme GmbH, Köln
+ - T-Systems Multimedia Solutions GmbH, Stuttgart
+ - Zend Technologies GmbH, Stuttgart
