@@ -23,6 +23,8 @@ Responsible for editorial content according to § 5 TMG / § 55 RStV:
 
 USt-ID: DE189758973
 
+[Google Maps](https://goo.gl/maps/WQXk8b2jZKS2)
+
 ### Privacy Policy ###
 
 There are no cookies used on this site. Some content may be

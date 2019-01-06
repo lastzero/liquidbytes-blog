@@ -1,5 +1,5 @@
 ---
-title: About Liquid Bytes
+title: About Michael Mayer
 author: Michael Mayer
 type: page
 date: 2008-04-30T08:00:36+00:00
@@ -8,14 +8,15 @@ date: 2008-04-30T08:00:36+00:00
 
 <img src="https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=200" alt="Michael Mayer" class="right" srcset="https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=400 2x" />
 
-Liquid Bytes was founded by Michael Mayer in 1997 as a software company specializing in content management systems, open-source solutions and Web hosting.
-Clients included small and medium-sized businesses as well as public organizations such as the University of Tübingen and the Department of Trade and Industry Baden-Württemberg.
+My first contact with Web technologies was at the *University of Tübingen* in 1993. Four years later I founded *Liquid Bytes*, a software company specializing in content management systems and open-source solutions. It was discontinued as a full-service provider after joining *Zend Technologies* from 2006 until 2009.
 
-From 2006 until 2009, Michael joined Zend Technologies as a freelance consultant and decided not to continue Liquid Bytes as a full service provider.
-With many years of experience in the software business, he's now focused on helping his clients build rock-solid Web applications,
-leverage the full potential of agile software development and master management challenges.
+In the following years it became my passion to help teams succeed even in difficult situations by focusing on sustainability and continuous improvement.
 
 ### Skills & Experience
+
+With 20+ years of experience in the software business, I can effectively help you build high-performance Web applications and master management challenges.
+
+I'm currently [available](/contact/) for freelance projects with a focus on:
 
 * Agile Software Development
 * [Scrum](https://www.scrum.org/user/416957), Kanban, Simple Design, Refactoring and TDD
