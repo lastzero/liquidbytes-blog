@@ -14,7 +14,7 @@ In the following years it became my passion to help teams succeed even in diffic
 
 ### Skills & Experience
 
-With 20+ years of experience in the software business, I can effectively help you build high-performance Web applications and master management challenges.
+With 20+ years of experience across all aspects of the industry, I can effectively help you build high-performance Web applications and master management challenges.
 
 I'm currently [available](/contact/) for freelance projects with a focus on:
 
