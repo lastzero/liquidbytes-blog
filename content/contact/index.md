@@ -23,13 +23,18 @@ Responsible for editorial content according to § 5 TMG / § 55 RStV:
 
 USt-ID: DE189758973
 
-[Google Maps](https://goo.gl/maps/WQXk8b2jZKS2)
+[Google Maps][4]
 
 ### Privacy Policy ###
 
 There are no cookies used on this site. Some content may be
-loaded from external sources e.g. to improve performance or play videos.
+loaded from external sources e.g. to improve performance or play videos. 
+
+GitHub logs certain information like your IP address, 
+see [GitHub Privacy Statement][5].
 
  [1]: https://github.com/lastzero
  [2]: https://twitter.com/lastzero
  [3]: https://www.linkedin.com/in/lastzero/
+ [4]: https://goo.gl/maps/WQXk8b2jZKS2
+ [5]: https://help.github.com/articles/github-privacy-statement/
