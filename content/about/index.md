@@ -6,7 +6,7 @@ date: 2008-04-30T08:00:36+00:00
 
 ---
 
-<img src="https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=200" alt="Michael Mayer" class="right" srcset="https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=400 2x" />
+<img src="https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=150" alt="Michael Mayer" class="right" srcset="https://secure.gravatar.com/avatar/c931f21cd66ed197b5e443ebc8e667f3?s=300 2x" />
 
 My first contact with Web technologies was at the University of Tübingen in 1993. Four years later I founded *Liquid Bytes*, a software company specializing in content management systems and open-source solutions. It was discontinued as a full-service provider after joining *Zend Technologies* from 2006 until 2009.
 

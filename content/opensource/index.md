@@ -6,7 +6,7 @@ date: 2015-11-20T11:54:46+00:00
 
 ---
 
-##### <a href="https://photoprism.org/" target="_blank" rel="noopener">PhotoPrism: Personal photo management powered by Go and Google TensorFlow</a>
+##### <a href="https://photoprism.org/" target="_blank" rel="noopener">PhotoPrism: Personal Photo Management powered by Go and Google TensorFlow</a>
 
 PhotoPrism is a server-based application for browsing, organizing and sharing your personal photo collection. It makes use of the latest technologies to automatically tag and find pictures without getting in your way.
 
