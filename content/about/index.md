@@ -14,14 +14,12 @@ In the following years it became my passion to help teams succeed even in diffic
 
 ### Skills & Experience
 
-With 20+ years of experience across all aspects of the industry, I can effectively help you master (almost) any challenge in software development and management.
+You're welcome to [contact me](/contact/) for freelance projects with a focus on:
 
-I'm currently [available](/contact/) for freelance projects with a focus on:
-
- - Agile Software Development (Go, PHP, JS)
- - [Scrum](https://www.scrum.org/user/416957), Kanban, Simple Design, Refactoring and TDD
+ - Agile Software Development 
  - Interim Management
  - Capability Building and Coaching
+ - Kanban, [Scrum](https://www.scrum.org/user/416957), Simple Design, Refactoring and TDD
 
 ### Customer Showcase
 
@@ -29,10 +27,12 @@ I'm currently [available](/contact/) for freelance projects with a focus on:
  - 6 Wunderkinder GmbH, Berlin
  - Cewe Stiftung & Co. KGaA, Oldenburg
  - CMS Hasche Sigle, Berlin
+ - CodeControl GmbH, Berlin
  - Daimler Financial Services AG, Stuttgart
  - Deutsche Telekom AG, Darmstadt
  - HolidayCheck AG, Bottighofen
  - Magic Internet Musik GmbH, Berlin
+ - OnSite ImmoAgent GmbH, Berlin
  - Pantaflix AG, Berlin
  - PIN Digital GmbH, Berlin
  - Sparkassen Finanzportal GmbH, Berlin
